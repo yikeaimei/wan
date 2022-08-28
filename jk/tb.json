@@ -31,6 +31,15 @@
 			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0712.jar"
 		},
 		{
+			"key": "T4",
+			"name": "T4爬虫",
+			"type": 4,
+			"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0
+		},
+		{
 			"key": "美食",
 			"name": "TVBox教程",
 			"type": 3,
@@ -139,6 +148,16 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
+		},
+		{
+			"key":"csp_biubiu_九亿资源",
+			"name":"九亿资源",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitea.com/houxian/json/raw/branch/master/XB/9亿资源.json"
 		},
 		{
 			"key": "csp_9E03",
