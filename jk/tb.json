@@ -41,14 +41,14 @@
 		},
 		{
 			"key": "美食",
-			"name": "TVBox教程",
+			"name": "美食天下",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/TV.json",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/box2.jar"
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/Qita/meishi.json",
+			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0826.jar"
 		},
 		{
 			"key": "csp_Bili",
@@ -157,7 +157,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://gitea.com/houxian/json/raw/branch/master/XB/9亿资源.json"
+			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/9亿资源.json"
 		},
 		{
 			"key": "csp_9E03",
@@ -433,6 +433,16 @@
 			"filterable": 1
 		},
 		{
+			"key":"csp_XYQBiu_剧荒",
+			"name":"剧荒影院(XYQ)",
+			"type":3,
+			"api":"csp_XYQBiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XYQ/剧荒.json"
+		},
+		{
 			"key": "csp_xpath_czspp",
 			"name": "厂长资源(XP)",
 			"type": 3,
@@ -520,14 +530,43 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/jmys.json"
 		},
 		{
-			"key": "csp_biubiu_速搜影视",
-			"name": "速搜影视",
+			"key": "csp_biubiu_maidouTV",
+			"name": "麦豆TV",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/ssys.json"
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/maidouTV.json"
+		},
+		{
+			"key":"csp_XBiubiu_宝仙HD",
+			"name":"宝仙HD(XB)",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/宝仙HD.json"
+		},
+		{
+			"key":"csp_biubiu_饭团",
+			"name":"饭团(XB)",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/饭团.json"
+		},
+		{
+			"key":"csp_biubiu_速搜影视",
+			"name":"速搜影视(XB)",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/速搜影视.json"
 		},
 		{
 			"key": "csp_biubiu_骚火电影",
@@ -752,16 +791,6 @@
 			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/789yingshi.json"
 		},
 		{
-			"key":"csp_biubiu_飘花播播",
-			"name":"飘花播播(XB)",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/piaohuabobo.json"
-		},
-		{
 			"key":"csp_xbb_2345",
 			"name":"2345影视大全",
 			"type": 3,
@@ -936,14 +965,14 @@
 			"ext": "https://tvbox-gg.oss-cn-shanghai.aliyuncs.com/tvbox/tvjs/tvhz.json"
 		},
 		{
-			"key": "csp_biubiu_voflix",
-			"name": "voflix",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "{\r\n  \"name\": \"voflix\",\r\n  \"url\": \"https://www.voflix.com/\",\r\n  \"User\": \"空\",\r\n  \"shouye\": \"1\",\r\n  \"fenlei\": \"电影$/show/1-----------#国产剧$/show/13-----------#剧集$/show/2-----------#综艺$/show/3-----------#动画$/show/4-----------#欧美剧$/show/16-----------#日韩剧$/show/15-----------\",\r\n  \"houzhui\": \".html\",\r\n  \"shifouercijiequ\": \"1\",\r\n  \"jiequqian\": \"module-page\",\r\n  \"jiequhou\": \"class=\\\"fixedGroup\",\r\n  \"jiequshuzuqian\": \"<a\",\r\n  \"jiequshuzuhou\": \"no-referrer\",\r\n  \"tupianqian\": \"original=\\\"\",\r\n  \"tupianhou\": \"\\\"\",\r\n  \"biaotiqian\": \"title=\\\"\",\r\n  \"biaotihou\": \"\\\"\",\r\n  \"lianjieqian\": \"href=\\\"\",\r\n  \"lianjiehou\": \"\\\"\",\r\n  \"sousuoqian\": \"/index.php/ajax/suggest?mid=1&wd=\",\r\n  \"sousuohou\": \"&limit=500\",\r\n  \"sousuohouzhui\": \"/detail/\",\r\n  \"ssmoshi\": \"0\",\r\n  \"sousuoshifouercijiequ\": \"0\",\r\n  \"jspic\": \"pic\",\r\n  \"jsname\": \"name\",\r\n  \"jsid\": \"id\",\r\n  \"ssjiequqian\": \"空\",\r\n  \"ssjiequhou\": \"空\",\r\n  \"ssjiequshuzuqian\": \"空\",\r\n  \"ssjiequshuzuhou\": \"空\",\r\n  \"sstupianqian\": \"空\",\r\n  \"sstupianhou\": \"空\",\r\n  \"ssbiaotiqian\": \"空\",\r\n  \"ssbiaotihou\": \"空\",\r\n  \"sslianjieqian\": \"空\",\r\n  \"sslianjiehou\": \"空\",\r\n  \"bfshifouercijiequ\": \"0\",\r\n  \"bfjiequqian\": \"空\",\r\n  \"bfjiequhou\": \"空\",\r\n  \"zhuangtaiqian\": \"更新：\",\r\n  \"zhuangtaihou\": \"</div>\",\r\n  \"daoyanqian\": \"导演：\",\r\n  \"daoyanhou\": \"</div>\",\r\n  \"zhuyanqian\": \"主演：\",\r\n  \"zhuyanhou\": \"</div>\",\r\n  \"juqingqian\": \"简介：\",\r\n  \"juqinghou\": \"/div>\",\r\n  \"bfjiequshuzuqian\": \"class=\\\"module-list\",\r\n  \"bfjiequshuzuhou\": \"</div>\",\r\n  \"bfyshifouercijiequ\": \"0\",\r\n  \"bfyjiequqian\": \"空\",\r\n  \"bfyjiequhou\": \"空\",\r\n  \"bfyjiequshuzuqian\": \"<a\",\r\n  \"bfyjiequshuzuhou\": \"/a>\",\r\n  \"bfbiaotiqian\": \"<span>\",\r\n  \"bfbiaotihou\": \"</span>\",\r\n  \"bflianjieqian\": \"href=\\\"\",\r\n  \"bflianjiehou\": \"\\\"\"\r\n}\r\n"
+			"key":"csp_biubiu_voflix",
+			"name":"voflix(XB)",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/voflixHD.json"
 		},
 		{
 			"key": "影图",
