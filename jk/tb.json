@@ -723,14 +723,34 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/naifeiorg.json"
 		},
 		{
-			"key": "csp_xpath_cerrd",
-			"name": "真不卡影院(XP)",
+			"key":"csp_biubiu_789影视",
+			"name":"789影视(XB)",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/789yingshi.json"
+		},
+		{
+			"key":"csp_biubiu_飘花播播",
+			"name":"飘花播播(XB)",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/piaohuabobo.json"
+		},
+		{
+			"key":"csp_xbb_2345",
+			"name":"2345影视大全",
 			"type": 3,
-			"api": "csp_XPath",
+			"api": "csp_XBiubiu",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/cerrd.json"
+			"ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xb/2345.json"
 		},
 		{
 			"key": "csp_biubiu_特狗影视",
