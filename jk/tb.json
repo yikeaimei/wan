@@ -1286,10 +1286,9 @@
 			"url": "Parallel"
 		},
 		{
-			"name":"解析1",
-			"type":1,
-			"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url=",
-			"ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}
+			"name": "GGTV",
+			"type": 1,
+			"url": "https://play.fuqizhishi.com/gang0819/API.php?appkey=QQ172598364&url="
 		},
 		{
 			"name": "小白",
