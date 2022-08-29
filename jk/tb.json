@@ -1286,20 +1286,10 @@
 			"url": "Parallel"
 		},
 		{
-			"name":"293",
-			"type":1,
-			"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
-			"ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
-		},
-		{
-			"name": "小白",
+			"name": "飞捷",
 			"type": 1,
-			"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
-		},
-		{
-			"name": "柠檬1",
-			"type": 1,
-			"url": "http://tgjx.itcker.com/api/?key=u7eWwiakUR1L6KS4sj&url="
+			"url": "https://fjkkk.cn/toujiexisiquanjia.php?url=",
+			"ext": {"flag": ["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}
 		},
 		{
 			"name": "全民解析",
