@@ -1286,10 +1286,10 @@
 			"url": "Parallel"
 		},
 		{
-			"name": "MuX蓝光解析",
+			"name": "猫群专用解析y1",
 			"type": 1,
-			"url": "https://vvip.funsline.cn/api/?key=8vMzuXb87MWtyJeECE&url=",
-			"ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","xigua","rongxing","rx","xfy","xueren"]}
+			"url": "http://chaloli.cn/home/api?type=ys&uid=705072&key=abcdegipstBCFMSVZ6&url=",
+			"ext": {"flag": ["youku","qq","iqiyi","qiyi","letv","sohu","letv","tudou","pptv","mgtv","wasu","bilibili","leduo","fq3","fq4","xueren","duoduo","duoduozy","miaoparty","miaoparty2","miaoparty3","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"]}
 		},
 		{
 			"name": "全民解析",
