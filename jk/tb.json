@@ -1286,10 +1286,10 @@
 			"url": "Parallel"
 		},
 		{
-			"name":"433解析",
+			"name":"293",
 			"type":1,
-			"url":"https://jx.bozrc.com:4433/player/?url=",
-			"ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905","优酷","芒果","腾讯","爱奇艺","奇艺"]}
+			"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
+			"ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
 		},
 		{
 			"name": "小白",
