@@ -1286,9 +1286,9 @@
 			"url": "Parallel"
 		},
 		{
-			"name":"云you秒解①",
-			"type":1,
-			"url":"https://play.fuqizhishi.com/mov/API.php?appkey=QQ172598364&url="
+			"name": "OK解析",
+			"type": 0,
+			"url": "https://api.okjx.cc:3389/jx.php?url="
 		},
 		{
 			"name": "全民解析",
