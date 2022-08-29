@@ -1286,10 +1286,9 @@
 			"url": "Parallel"
 		},
 		{
-			"name": "未知",
-			"type": 1,
-			"url": "http://106.52.218.221:88/?url=",
-			"ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}
+			"name":"云you秒解①",
+			"type":1,
+			"url":"https://play.fuqizhishi.com/mov/API.php?appkey=QQ172598364&url="
 		},
 		{
 			"name": "全民解析",
