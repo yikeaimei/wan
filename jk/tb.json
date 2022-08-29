@@ -1286,11 +1286,6 @@
 			"url": "Parallel"
 		},
 		{
-			"name": "GGTV",
-			"type": 1,
-			"url": "https://play.fuqizhishi.com/gang0819/API.php?appkey=QQ172598364&url="
-		},
-		{
 			"name": "小白",
 			"type": 1,
 			"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
@@ -1299,6 +1294,11 @@
 			"name": "柠檬1",
 			"type": 1,
 			"url": "http://tgjx.itcker.com/api/?key=u7eWwiakUR1L6KS4sj&url="
+		},
+		{
+			"name": "全民解析",
+			"type": 0,
+			"url": "http://api.wpsseo.cn/?v="
 		},
 		{
 			"name": "免费",
