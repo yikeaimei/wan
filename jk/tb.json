@@ -18,7 +18,8 @@
 			"api": "csp_Kunyu77",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/ts0829.jar"
 		},
 		{
 			"key":"csp_appysv2_amhys",
