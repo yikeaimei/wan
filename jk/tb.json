@@ -19,26 +19,27 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/ts0829.jar"
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/alist.jar"
 		},
 		{
-			"key":"csp_appysv2_amhys",
-			"name":"爱麻花影视",
-			"type":3,
-			"api":"csp_AppYsV2",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"http://v.jiexi.work/qingdoujiekou.php/v1.vod"
+			"key": "csp_appysv2_amhys",
+			"name": "爱麻花影视",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"
 		},
 		{
-			"key":"csp_Smdyy",
-			"name":"电影院",
-			"api":"csp_Smdyy",
-			"type":3,
-			"filterable":1,
-			"quickSearch":1,
-			"searchable":1,"ext":""
+			"key": "csp_Smdyy",
+			"name": "电影院",
+			"api": "csp_Smdyy",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": ""
 		},
 		{
 			"key": "T4",
@@ -58,7 +59,7 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/Qita/meishi.json",
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0826.jar"
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0826.jar"
 		},
 		{
 			"key": "csp_Bili",
@@ -160,14 +161,14 @@
 			"filterable": 1
 		},
 		{
-			"key":"csp_biubiu_九亿资源",
-			"name":"九亿资源",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/9亿资源.json"
+			"key": "csp_biubiu_九亿资源",
+			"name": "九亿资源",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/9亿资源.json"
 		},
 		{
 			"key": "csp_9E03",
@@ -443,14 +444,14 @@
 			"filterable": 1
 		},
 		{
-			"key":"csp_XYQBiu_剧荒",
-			"name":"剧荒影院(XYQ)",
-			"type":3,
-			"api":"csp_XYQBiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XYQ/剧荒.json"
+			"key": "csp_XYQBiu_剧荒",
+			"name": "剧荒影院(XYQ)",
+			"type": 3,
+			"api": "csp_XYQBiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/剧荒.json"
 		},
 		{
 			"key": "csp_xpath_czspp",
@@ -610,24 +611,24 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/干饭影视.json"
 		},
 		{
-			"key":"csp_biubiu_双十电影",
-			"name":"双十电影(XB)",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/双十电影.json"
+			"key": "csp_biubiu_双十电影",
+			"name": "双十电影(XB)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/双十电影.json"
 		},
 		{
-			"key":"csp_biubiu_花猫TV",
-			"name":"花猫TV(XB)",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/花猫TV.json"
+			"key": "csp_biubiu_花猫TV",
+			"name": "花猫TV(XB)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/花猫TV.json"
 		},
 		{
 			"key": "csp_biubiu_maidouTV",
@@ -640,33 +641,34 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/maidouTV.json"
 		},
 		{
-			"key":"csp_XBiubiu_宝仙HD",
-			"name":"宝仙HD(XB)",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/宝仙HD.json"
+			"key": "csp_XBiubiu_宝仙HD",
+			"name": "宝仙HD(XB)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/宝仙HD.json"
 		},
 		{
-			"key":"csp_biubiu_饭团",
-			"name":"饭团(XB)",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/饭团.json"
+			"key": "csp_biubiu_饭团",
+			"name": "饭团(XB)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/饭团.json"
 		},
 		{
-			"key":"csp_biubiu_速搜影视",
-			"name":"速搜影视(XB)",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/速搜影视.json"
+			"key": "csp_biubiu_速搜影视",
+			"name": "速搜影视(XB)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/速搜影视.json"
 		},
 		{
 			"key": "csp_biubiu_骚火电影",
@@ -881,18 +883,18 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/naifeiorg.json"
 		},
 		{
-			"key":"csp_biubiu_789影视",
-			"name":"789影视(XB)",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/789yingshi.json"
+			"key": "csp_biubiu_789影视",
+			"name": "789影视(XB)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/789yingshi.json"
 		},
 		{
-			"key":"csp_xbb_2345",
-			"name":"2345影视大全",
+			"key": "csp_xbb_2345",
+			"name": "2345影视大全",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -1065,14 +1067,14 @@
 			"ext": "https://tvbox-gg.oss-cn-shanghai.aliyuncs.com/tvbox/tvjs/tvhz.json"
 		},
 		{
-			"key":"csp_biubiu_voflix",
-			"name":"voflix(XB)",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/voflixHD.json"
+			"key": "csp_biubiu_voflix",
+			"name": "voflix(XB)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/voflixHD.json"
 		},
 		{
 			"key": "影图",
@@ -1295,7 +1297,9 @@
 			"name": "扶风",
 			"type": 1,
 			"url": "https://vip.byteamone.cn/api/?key=6sdRk7xF8yaTMlRoqr&url=",
-			"ext": {"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}
+			"ext": {
+				"flag": ["qiyi", "iqiyi", "奇艺", "爱奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "xigua", "西瓜", "sohu", "搜狐", "cntv", "cctv", "央视", "1905", "m1905"]
+			}
 		},
 		{
 			"name": "全民解析",
@@ -1308,10 +1312,12 @@
 			"url": "https://jx.bozrc.com:4433/player/?url="
 		},
 		{
-			"name":"高速vip",
-			"type":0,
-			"url":"https://vip.parwix.com:4433/player/?url=",
-			"ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}
+			"name": "高速vip",
+			"type": 0,
+			"url": "https://vip.parwix.com:4433/player/?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			}
 		},
 		{
 			"name": "parwix2",
