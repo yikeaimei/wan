@@ -42,6 +42,15 @@
 			"ext": ""
 		},
 		{
+			"key":"csp_Anime1",
+			"name":"Anime",
+			"type":3,
+			"api":"csp_Anime1",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+		{
 			"key": "T4",
 			"name": "T4爬虫",
 			"type": 4,
@@ -49,6 +58,15 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0
+		},
+		{
+			"key":"t4public",
+			"name":"T4公共",
+			"type":4,
+			"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0
 		},
 		{
 			"key": "美食",
@@ -549,6 +567,16 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/kdyy.json"
+		},
+		{
+			"key":"csp_biubiu_凌云影视",
+			"name":"凌云影视(XB)",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XYQ/lyys.json"
 		},
 		{
 			"key": "csp_biubiu_旧梦影视",
@@ -1241,6 +1269,94 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "https://app.bl210.com/api.php/v1.vod"
+		},
+		{
+			"key":"Alist99",
+			"name":"Alist",
+			"type":3,
+			"api":"csp_Alist",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://alist.xiaoguanxiaocheng.life",
+			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+		},
+		{
+			"key": "csp_Alist",
+			"name": "Alist",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "https://alist.youte.ml",
+			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+		},
+		{
+			"key": "csp_Alist1",
+			"name": "Alist",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "https://pan.142856.xyz",
+			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+		},
+		{
+			"key": "csp_Alist2",
+			"name": "Alist",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "https://xn--i0v44m.xyz/",
+			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+		},
+		{
+			"key": "csp_Alist3",
+			"name": "Alist",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "https://alist.shenzjd.com",
+			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+		},
+		{
+			"key": "csp_Alist4",
+			"name": "Alist",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "https://drive.9t.ee",
+			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+		},
+		{
+			"key": "csp_Alist5",
+			"name": "Alist",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "https://pan.hikerfans.com/",
+			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+		},
+		{
+			"key": "csp_Alist6",
+			"name": "Alist",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "https://pity.eu.org",
+			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
 		},
 		{
 			"key": "csp_Alips",
