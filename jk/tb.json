@@ -579,16 +579,6 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/kdyy.json"
 		},
 		{
-			"key":"csp_biubiu_凌云影视",
-			"name":"凌云影视(XB)",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XYQ/lyys.json"
-		},
-		{
 			"key":"csp_biubiu_达达龟",
 			"name":"达达龟(XB)",
 			"type":3,
