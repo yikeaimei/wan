@@ -89,7 +89,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
+			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/ts.jar"
 		},
 		{
 			"key": "Lezhu_spider",
