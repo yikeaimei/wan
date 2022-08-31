@@ -13,22 +13,12 @@
 
 	"sites": [{
 			"key": "csp_Kunyu77",
-			"name": "酷云七七",
+			"name": "酷云影视",
 			"type": 3,
 			"api": "csp_Kunyu77",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/77.jar"
-		},
-		{
-			"key":"csp_Kunyu77",
-			"name":"酷云影视",
-			"type":3,
-			"api":"csp_Kunyu77",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
 			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/kuyunmogai.jar"
 		},
 		{
