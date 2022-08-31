@@ -82,14 +82,14 @@
 			"searchable": 1
 		},
 		{
-			"key": "KanSJ_spider",
+			"key": "看视界",
 			"name": "看视界",
-			"api": "csp_KanSJ",
 			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
+			"api": "csp_KanSJ",
 			"searchable": 1,
-			"ext": ""
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
 		},
 		{
 			"key": "Lezhu_spider",
@@ -273,8 +273,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/box2.jar"
+			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 		},
 		{
 			"key": "csp_DiDuan",
@@ -432,7 +431,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"jar":"http://刚刚.live/jar2/jar0828.jar"
+			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/293.jar"
 		},
 		{
 			"key": "剧荒TV",
