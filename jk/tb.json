@@ -1,5 +1,5 @@
 ﻿{
-	"spider": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar;md5;0e628833700dd1b175c18c71d2de1b52",
+	"spider": "https://agit.ai/aimei/wan/raw/branch/main/jar/0831.jar;md5;eae98ce31fb02cede605344c3b942668",
 
 	"wallpaper": "http://t15.baidu.com/it/u=1790011974,2290650889&fm=225&app=113&f=JPEG?w=1080&h=675&s=73A25C6CCB8347640A09626C02006076",
 
@@ -1415,17 +1415,10 @@
 			"url": "Parallel"
 		},
 		{
-			"name": "小白",
+			"name": "1080kan",
 			"type": 1,
-			"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
-		},
-		{
-			"name": "扶风",
-			"type": 1,
-			"url": "https://vip.byteamone.cn/api/?key=6sdRk7xF8yaTMlRoqr&url=",
-			"ext": {
-				"flag": ["qiyi", "iqiyi", "奇艺", "爱奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "xigua", "西瓜", "sohu", "搜狐", "cntv", "cctv", "央视", "1905", "m1905"]
-			}
+			"url": "https://www.1080kan.cc/jiexi/?url=",
+			"ext": {"flag": ["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}
 		},
 		{
 			"name": "全民解析",
