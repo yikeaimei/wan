@@ -454,6 +454,17 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/剧荒.json"
 		},
 		{
+			"key": "csp_XYQBiu_凌云影视",
+			"name": "凌云影视(XYQ)",
+			"type":3,
+			"api": "csp_XYQBiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/lyys.json",
+			"jar":"https://gitea.com/chiguren/jar/raw/branch/main/tXYQBiu_0828.jar"
+		},
+		{
 			"key": "csp_xpath_czspp",
 			"name": "厂长资源(XP)",
 			"type": 3,
