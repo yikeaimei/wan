@@ -274,7 +274,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3",
-			"jar": "clan://TVBox/box/jar/box2.jar"
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/box2.jar"
 		},
 		{
 			"key": "csp_DiDuan",
@@ -462,7 +462,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/lyys.json",
-			"jar":"https://gitea.com/chiguren/jar/raw/branch/main/tXYQBiu_0828.jar"
+			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/XYQBiu.jar"
 		},
 		{
 			"key": "csp_xpath_czspp",
