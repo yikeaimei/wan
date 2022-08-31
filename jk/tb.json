@@ -425,14 +425,14 @@
 			"filterable": 1
 		},
 		{
-			"key": "293视频",
-			"name": "293视频",
-			"type": 3,
-			"api": "csp_SP293",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/box2.jar"
+			"key":"293视频",
+			"name":"293视频",
+			"type":3,
+			"api":"csp_SP293",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"jar":"http://刚刚.live/jar2/jar0828.jar"
 		},
 		{
 			"key": "剧荒TV",
