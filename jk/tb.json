@@ -12,14 +12,14 @@
 	}],
 
 	"sites": [{
-			"key": "csp_Kunyu77",
-			"name": "酷云影视",
+			"key": "Kunyu77",
+			"name": "酷云七七",
 			"type": 3,
 			"api": "csp_Kunyu77",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/kuyunmogai.jar"
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/77.jar"
 		},
 		{
 			"key": "csp_appysv2_amhys",
@@ -42,13 +42,13 @@
 			"ext": ""
 		},
 		{
-			"key":"csp_Anime1",
-			"name":"Anime",
-			"type":3,
-			"api":"csp_Anime1",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
+			"key": "csp_Anime1",
+			"name": "Anime",
+			"type": 3,
+			"api": "csp_Anime1",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
 			"key": "T4",
@@ -60,13 +60,13 @@
 			"filterable": 0
 		},
 		{
-			"key":"t4public",
-			"name":"T4公共",
-			"type":4,
-			"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0
+			"key": "t4public",
+			"name": "T4公共",
+			"type": 4,
+			"api": "https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0
 		},
 		{
 			"key": "美食",
@@ -107,7 +107,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/ts.jar"
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/ts.jar"
 		},
 		{
 			"key": "Lezhu_spider",
@@ -442,14 +442,14 @@
 			"filterable": 1
 		},
 		{
-			"key":"293视频",
-			"name":"293视频",
-			"type":3,
-			"api":"csp_SP293",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/293.jar"
+			"key": "293视频",
+			"name": "293视频",
+			"type": 3,
+			"api": "csp_SP293",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/293.jar"
 		},
 		{
 			"key": "剧荒TV",
@@ -469,18 +469,28 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/剧荒.json",
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/XYQBiu.jar"
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/XYQBiu.jar"
 		},
 		{
 			"key": "csp_XYQBiu_凌云影视",
 			"name": "凌云影视(XYQ)",
-			"type":3,
+			"type": 3,
 			"api": "csp_XYQBiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/lyys.json",
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/XYQBiu.jar"
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/XYQBiu.jar"
+		},
+		{
+			"key": "云播看看",
+			"name": "云播看看(XP)",
+			"type": 3,
+			"api": "csp_XPath",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/云播看看.json"
 		},
 		{
 			"key": "csp_xpath_czspp",
@@ -505,11 +515,11 @@
 		{
 			"key": "Lib",
 			"name": "Libvio",
-			"type":3,
-			"api":"csp_Lib",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
+			"type": 3,
+			"api": "csp_Lib",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
 			"key": "csp_Auete",
@@ -560,6 +570,56 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/saohuotv.json"
 		},
 		{
+			"key": "人人影视",
+			"name": "人人影视(XB)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/人人影视.json"
+		},
+		{
+			"key": "乌龟影院",
+			"name": "乌龟影院(XB)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/乌龟影院.json"
+		},
+		{
+			"key": "看看影视",
+			"name": "看一看(XB)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/看一看.json"
+		},
+		{
+			"key": "小强影迷",
+			"name": "小强迷(XB)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/小强迷.json"
+		},
+		{
+			"key": "超清影视",
+			"name": "超清影视(XB)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/超清影视.json"
+		},
+		{
 			"key": "csp_XBiubiubiubiu_口袋影院",
 			"name": "口袋(XB)",
 			"type": 3,
@@ -570,24 +630,24 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/kdyy.json"
 		},
 		{
-			"key":"csp_biubiu_达达龟",
-			"name":"达达龟(XB)",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/达达龟.json"
+			"key": "csp_biubiu_达达龟",
+			"name": "达达龟(XB)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/达达龟.json"
 		},
 		{
-			"key":"csp_biubiu_大师兄影视",
-			"name":"大师兄影视(XB)",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/大师兄影视.json"
+			"key": "csp_biubiu_大师兄影视",
+			"name": "大师兄影视(XB)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/大师兄影视.json"
 		},
 		{
 			"key": "csp_biubiu_旧梦影视",
@@ -1282,15 +1342,15 @@
 			"ext": "https://app.bl210.com/api.php/v1.vod"
 		},
 		{
-			"key":"Alist99",
-			"name":"Alist",
-			"type":3,
-			"api":"csp_Alist",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://alist.xiaoguanxiaocheng.life",
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"key": "Alist99",
+			"name": "Alist",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://alist.xiaoguanxiaocheng.life",
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
 		},
 		{
 			"key": "csp_Alist",
@@ -1301,7 +1361,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "https://alist.youte.ml",
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
 		},
 		{
 			"key": "csp_Alist1",
@@ -1312,7 +1372,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "https://pan.142856.xyz",
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
 		},
 		{
 			"key": "csp_Alist2",
@@ -1323,7 +1383,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "https://xn--i0v44m.xyz/",
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
 		},
 		{
 			"key": "csp_Alist3",
@@ -1334,7 +1394,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "https://alist.shenzjd.com",
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
 		},
 		{
 			"key": "csp_Alist4",
@@ -1345,7 +1405,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "https://drive.9t.ee",
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
 		},
 		{
 			"key": "csp_Alist5",
@@ -1356,7 +1416,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "https://pan.hikerfans.com/",
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
 		},
 		{
 			"key": "csp_Alist6",
@@ -1367,7 +1427,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "https://pity.eu.org",
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
 		},
 		{
 			"key": "csp_Alips",
@@ -1425,10 +1485,13 @@
 			"type": 2,
 			"url": "Parallel"
 		},
-		{"name":"搬运",
-		"type":1,
-		"url":"https://jx.bynote.top/API.php?url=",
-		"ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}
+		{
+			"name": "搬运",
+			"type": 1,
+			"url": "https://jx.bynote.top/API.php?url=",
+			"ext": {
+				"flag": ["qiyi", "iqiyi", "奇艺", "爱奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "xigua", "西瓜", "sohu", "搜狐", "cntv", "cctv", "央视", "1905", "m1905"]
+			}
 		},
 		{
 			"name": "全民解析",
