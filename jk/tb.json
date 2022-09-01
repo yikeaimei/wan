@@ -1,5 +1,5 @@
 ﻿{
-	"spider": "https://agit.ai/aimei/wan/raw/branch/main/jar/0831.jar;md5;eae98ce31fb02cede605344c3b942668",
+	"spider": "https://agit.ai/aimei/wan/raw/branch/main/jar/0901.jar;md5;d2ded0d4b8b12b325bfcd3b7d1ecd3ea",
 
 	"wallpaper": "http://t15.baidu.com/it/u=1790011974,2290650889&fm=225&app=113&f=JPEG?w=1080&h=675&s=73A25C6CCB8347640A09626C02006076",
 
@@ -7,7 +7,7 @@
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8xMzUzMC90di5qc29uP3NpZ249ZU1jMzkxdDN1Z1ZzVEJkWjlUV21HaEtoSF9jeDlzQXB5OTFDXzQ2cms3byUzRCUzQTA="]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2FpbWVpL3dhbi9yYXcvYnJhbmNoL21haW4vbGl2ZS9saXZlLnR4dA=="]
 		}]
 	}],
 
@@ -1519,11 +1519,6 @@
 			"type":1,
 			"url":"https://vip.byteamone.cn/api/?key=6sdRk7xF8yaTMlRoqr&url=",
 			"ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}
-		},
-		{
-			"name": "小白",
-			"type": 1,
-			"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
 		},
 		{
 			"name": "全民解析",
