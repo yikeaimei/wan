@@ -1,7 +1,8 @@
 ﻿{
 	"spider": "https://agit.ai/aimei/wan/raw/branch/main/jar/0901.jar;md5;d2ded0d4b8b12b325bfcd3b7d1ecd3ea",
 
-	"wallpaper": ["http://t15.baidu.com/it/u=1790011974,2290650889&fm=225&app=113&f=JPEG?w=1080&h=675&s=73A25C6CCB8347640A09626C02006076,http://img.netbian.com/file/2022/0225/001309ZlXg6.jpg,http://img.netbian.com/file/2022/0205/003031cObfG.jpg,http://img.netbian.com/file/2022/0126/010539sMoTt.jpg,http://img.netbian.com/file/2022/0403/003154ZBed6.jpg,http://img.netbian.com/file/2022/0314/001034s2JRp.jpg,http://img.netbian.com/file/2022/0220/001847h5lbr.jpg"],
+	"wallpaper": "http://t15.baidu.com/it/u=1790011974,2290650889&fm=225&app=113&f=JPEG?w=1080&h=675&s=73A25C6CCB8347640A09626C02006076",
+	
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
