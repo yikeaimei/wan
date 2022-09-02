@@ -1,7 +1,7 @@
 ﻿{
 	"spider": "https://agit.ai/aimei/wan/raw/branch/main/jar/0901.jar;md5;d2ded0d4b8b12b325bfcd3b7d1ecd3ea",
 
-	"wallpaper": "https://agit.ai/aimei/wan/raw/branch/main/Qita/bizhi.txt",
+	"wallpaper": "http://t15.baidu.com/it/u=1790011974,2290650889&fm=225&app=113&f=JPEG?w=1080&h=675&s=73A25C6CCB8347640A09626C02006076",
 
 	"lives": [{
 		"group": "redirect",
@@ -1479,83 +1479,6 @@
 			"ext": "http://192.168.5.227:5244"
 		},
 		{
-			"key": "csp_Alist",
-			"name": "Alist",
-			"type": 3,
-			"api": "csp_Alist",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "https://alist.youte.ml",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
-		},
-		{
-			"key": "csp_Alist1",
-			"name": "Alist",
-			"type": 3,
-			"api": "csp_Alist",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "https://pan.142856.xyz",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
-		},
-		{
-			"key": "csp_Alist2",
-			"name": "Alist",
-			"type": 3,
-			"api": "csp_Alist",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "https://xn--i0v44m.xyz/",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
-		},
-		{
-			"key": "csp_Alist3",
-			"name": "Alist",
-			"type": 3,
-			"api": "csp_Alist",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "https://alist.shenzjd.com",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
-		},
-		{
-			"key": "csp_Alist4",
-			"name": "Alist",
-			"type": 3,
-			"api": "csp_Alist",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "https://drive.9t.ee",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
-		},
-		{
-			"key": "csp_Alist5",
-			"name": "Alist",
-			"type": 3,
-			"api": "csp_Alist",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "https://pan.hikerfans.com/",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
-		},
-		{
-			"key": "csp_Alist6",
-			"name": "Alist",
-			"type": 3,
-			"api": "csp_Alist",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "https://pity.eu.org",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
-		},
-		{
 			"key": "csp_Alips",
 			"name": "喵搜(搜索)",
 			"type": 3,
@@ -1620,11 +1543,6 @@
 			"name": "Json轮询",
 			"type": 2,
 			"url": "Sequence"
-		},
-		{
-			"name": "自动线路",
-			"type": 2,
-			"url": "Parallel"
 		},
 		{
 			"name": "扶风",
