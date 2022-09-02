@@ -1535,14 +1535,9 @@
 			"url": "Parallel"
 		},
 		{
-			"name": "小白",
+			"name": "搬运",
 			"type": 1,
-			"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
-		},
-		{
-			"name": "柠檬1",
-			"type": 1,
-			"url": "http://tgjx.itcker.com/api/?key=u7eWwiakUR1L6KS4sj&url="
+			"url":"https://jx.bynote.top/API.php?url="
 		},
 		{
 			"name": "全民解析",
