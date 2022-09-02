@@ -2,7 +2,7 @@
 	"spider": "https://agit.ai/aimei/wan/raw/branch/main/jar/0901.jar;md5;d2ded0d4b8b12b325bfcd3b7d1ecd3ea",
 
 	"wallpaper": "https://agit.ai/aimei/wan/raw/branch/main/Qita/bizhi.txt",
-	
+
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
@@ -275,30 +275,30 @@
 		{
 			"key": "低端",
 			"name": "低端(爬虫)",
-			"api":"csp_Ddrk",
-			"type":3,
-			"filterable":1,
-			"quickSearch":1,
-			"searchable":1
+			"api": "csp_Ddrk",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1
 		},
 		{
 			"key": "厂长",
 			"name": "厂长(爬虫)",
-			"type":3,
-			"api":"csp_Czsapp",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
+			"type": 3,
+			"api": "csp_Czsapp",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
-			"key":"多多",
-			"name":"多多资源(SP)",
-			"type":1,
-			"api":"https://www.ddzyz1.com/api.php/provide/vod/",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
+			"key": "多多",
+			"name": "多多资源(SP)",
+			"type": 1,
+			"api": "https://www.ddzyz1.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
 		},
 		{
 			"key": "csp_hbys",
@@ -498,6 +498,16 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/lyys.json"
+		},
+		{
+			"key": "csp_xpath_007",
+			"name": "零零七(XP)",
+			"type": 3,
+			"api": "csp_XPathMacFilter",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/007.json"
 		},
 		{
 			"key": "云播看看",
@@ -1369,14 +1379,14 @@
 			"ext": "https://app.bl210.com/api.php/v1.vod"
 		},
 		{
-			"key":"Alist99",
-			"name":"Alist小关小陈",
-			"type":3,
-			"api":"csp_Alist",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://alist.xiaoguanxiaocheng.life"
+			"key": "Alist99",
+			"name": "Alist小关小陈",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://alist.xiaoguanxiaocheng.life"
 		},
 		{
 			"key": "csp_Alist",
@@ -1596,15 +1606,33 @@
 			"ext": "3a49cf29cf20410997247c6eb4509be9"
 		}
 	],
-	"parses": [{"name":"解析聚合","type":3,"url":"Demo"},
-	{"name":"Json并发","type":2,"url":"Parallel"},
-	{"name":"Json轮询","type":2,"url":"Sequence"},
-		{"name": "自动线路","type": 2,"url": "Parallel"},
+	"parses": [{
+			"name": "解析聚合",
+			"type": 3,
+			"url": "Demo"
+		},
 		{
-			"name":"扶风",
-			"type":1,
-			"url":"https://vip.byteamone.cn/api/?key=6sdRk7xF8yaTMlRoqr&url=",
-			"ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}
+			"name": "Json并发",
+			"type": 2,
+			"url": "Parallel"
+		},
+		{
+			"name": "Json轮询",
+			"type": 2,
+			"url": "Sequence"
+		},
+		{
+			"name": "自动线路",
+			"type": 2,
+			"url": "Parallel"
+		},
+		{
+			"name": "扶风",
+			"type": 1,
+			"url": "https://vip.byteamone.cn/api/?key=6sdRk7xF8yaTMlRoqr&url=",
+			"ext": {
+				"flag": ["qiyi", "iqiyi", "奇艺", "爱奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "xigua", "西瓜", "sohu", "搜狐", "cntv", "cctv", "央视", "1905", "m1905"]
+			}
 		},
 		{
 			"name": "全民解析",
