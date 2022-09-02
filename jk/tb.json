@@ -480,6 +480,46 @@
 			"filterable": 1
 		},
 		{
+			"key": "csp_XYQBiu_555影视",
+			"name":"555影视(XYQ)",
+			"type":3,
+			"api":"csp_XYQBiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/555dy.json"
+		},
+		{
+			"key": "csp_XYQBiu_影视工厂",
+			"name":"影视工厂(XYQ)",
+			"type":3,
+			"api":"csp_XYQBiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/影视工厂.json"
+		},
+		{
+			"key":"csp_XYQBiu_wnys",
+			"name":"万能影视(XYQ)",
+			"type":3,
+			"api":"csp_XYQBiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://shadowchiu369.github.io/TVBox/XYQ/万能影视.json"
+		},
+		{
+			"key":"csp_XYQBiu_e9",
+			"name":"e9视频(XYQ)",
+			"type":3,
+			"api":"csp_XYQBiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://shadowchiu369.github.io/TVBox/XYQ/e9视频.json"
+		},
+		{
 			"key": "csp_XYQBiu_剧荒",
 			"name": "剧荒影院(XYQ)",
 			"type": 3,
