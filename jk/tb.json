@@ -510,16 +510,6 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/007.json"
 		},
 		{
-			"key": "云播看看",
-			"name": "云播看看(XP)",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/云播看看.json"
-		},
-		{
 			"key": "csp_xpath_czspp",
 			"name": "厂长资源(XP)",
 			"type": 3,
@@ -595,16 +585,6 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/saohuotv.json"
-		},
-		{
-			"key": "csp_biubiu_迷你库",
-			"name": "迷你库(XB)",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/迷你库.json"
 		},
 		{
 			"key": "人人影视",
@@ -1128,15 +1108,6 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/bidiys2.json"
 		},
 		{
-			"key": "小熊",
-			"name": "小熊TV",
-			"type": 3,
-			"api": "csp_Xxys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "csp_biubiu_奇优影院ns",
 			"name": "奇优影院(XB)",
 			"type": 3,
@@ -1183,16 +1154,6 @@
 			"quickSearch": 1
 		},
 		{
-			"key": "csp_xpath_pianku",
-			"name": "片库(XP)",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/pianku.json"
-		},
-		{
 			"key": "csp_xpath_bttwoo",
 			"name": "两个BT(XP)",
 			"type": 3,
@@ -1201,16 +1162,6 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/bttwoo.json"
-		},
-		{
-			"key": "csp_XBiubiu_TVHZ",
-			"name": "盒子影视(XB)",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://tvbox-gg.oss-cn-shanghai.aliyuncs.com/tvbox/tvjs/tvhz.json"
 		},
 		{
 			"key": "csp_biubiu_voflix",
