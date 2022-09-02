@@ -2,7 +2,7 @@
 	"spider": "https://agit.ai/aimei/wan/raw/branch/main/jar/0901.jar;md5;d2ded0d4b8b12b325bfcd3b7d1ecd3ea",
 
 	"wallpaper": "http://t15.baidu.com/it/u=1790011974,2290650889&fm=225&app=113&f=JPEG?w=1080&h=675&s=73A25C6CCB8347640A09626C02006076",
-	
+
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
@@ -275,30 +275,30 @@
 		{
 			"key": "低端",
 			"name": "低端(爬虫)",
-			"api":"csp_Ddrk",
-			"type":3,
-			"filterable":1,
-			"quickSearch":1,
-			"searchable":1
+			"api": "csp_Ddrk",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1
 		},
 		{
 			"key": "厂长",
 			"name": "厂长(爬虫)",
-			"type":3,
-			"api":"csp_Czsapp",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
+			"type": 3,
+			"api": "csp_Czsapp",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
-			"key":"多多",
-			"name":"多多资源(SP)",
-			"type":1,
-			"api":"https://www.ddzyz1.com/api.php/provide/vod/",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
+			"key": "多多",
+			"name": "多多资源(SP)",
+			"type": 1,
+			"api": "https://www.ddzyz1.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
 		},
 		{
 			"key": "csp_hbys",
@@ -498,6 +498,16 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/lyys.json"
+		},
+		{
+			"key": "csp_xpath_007",
+			"name": "零零七(XP)",
+			"type": 3,
+			"api": "csp_XPathMacFilter",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/007.json"
 		},
 		{
 			"key": "云播看看",
@@ -1138,7 +1148,7 @@
 		},
 		{
 			"key": "csp_biubiu_cupfox",
-			"name": "茶杯狐(XB)",
+			"name": "茶杯狐",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -1370,91 +1380,103 @@
 		},
 		{
 			"key": "Alist99",
-			"name": "Alist",
+			"name": "Alist小关小陈",
 			"type": 3,
 			"api": "csp_Alist",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://alist.xiaoguanxiaocheng.life",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"ext": "https://alist.xiaoguanxiaocheng.life"
 		},
 		{
 			"key": "csp_Alist",
-			"name": "Alist",
+			"name": "Alist一只鱼",
 			"type": 3,
 			"api": "csp_Alist",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://alist.youte.ml",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"ext": "https://alist.youte.ml"
 		},
 		{
 			"key": "csp_Alist1",
-			"name": "Alist",
+			"name": "Alist菊花盘",
 			"type": 3,
 			"api": "csp_Alist",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://pan.142856.xyz",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"ext": "https://pan.142856.xyz"
 		},
 		{
 			"key": "csp_Alist2",
-			"name": "Alist",
+			"name": "Alist梓澪の妙妙屋",
 			"type": 3,
 			"api": "csp_Alist",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://xn--i0v44m.xyz/",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"ext": "https://xn--i0v44m.xyz/"
 		},
 		{
 			"key": "csp_Alist3",
-			"name": "Alist",
+			"name": "Alist神族九帝",
 			"type": 3,
 			"api": "csp_Alist",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://alist.shenzjd.com",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"ext": "https://alist.shenzjd.com"
 		},
 		{
 			"key": "csp_Alist4",
-			"name": "Alist",
+			"name": "Alist 9t",
 			"type": 3,
 			"api": "csp_Alist",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://drive.9t.ee",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"ext": "https://drive.9t.ee"
 		},
 		{
 			"key": "csp_Alist5",
-			"name": "Alist",
+			"name": "Alist姬路白雪",
 			"type": 3,
 			"api": "csp_Alist",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://pan.hikerfans.com/",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"ext": "https://pan.jlbx.xyz/"
 		},
 		{
 			"key": "csp_Alist6",
-			"name": "Alist",
+			"name": "Alist七米蓝",
 			"type": 3,
 			"api": "csp_Alist",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://pity.eu.org",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0828.jar"
+			"ext": "https://al.chirmyram.com/"
+		},
+		{
+			"key": "csp_Alist7",
+			"name": "Alist Eren's",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "https://alist.sharefiles.repl.co"
+		},
+		{
+			"key": "csp_Alist8",
+			"name": "Alist自用",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "http://192.168.5.227:5244"
 		},
 		{
 			"key": "csp_Alips",
@@ -1513,10 +1535,12 @@
 			"url": "Parallel"
 		},
 		{
-			"name":"扶风",
-			"type":1,
-			"url":"https://vip.byteamone.cn/api/?key=6sdRk7xF8yaTMlRoqr&url=",
-			"ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}
+			"name": "扶风",
+			"type": 1,
+			"url": "https://vip.byteamone.cn/api/?key=6sdRk7xF8yaTMlRoqr&url=",
+			"ext": {
+				"flag": ["qiyi", "iqiyi", "奇艺", "爱奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "xigua", "西瓜", "sohu", "搜狐", "cntv", "cctv", "央视", "1905", "m1905"]
+			}
 		},
 		{
 			"name": "全民解析",
