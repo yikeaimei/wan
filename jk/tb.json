@@ -501,6 +501,16 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/lyys.json"
 		},
 		{
+			"key":"csp_xpath_UM",
+			"name":"UM影院(XPMF)",
+			"type":3,
+			"api":"csp_XPathMacFilter",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XP/UM.json"
+		},
+		{
 			"key": "csp_xpath_007",
 			"name": "零零七(XP)",
 			"type": 3,
