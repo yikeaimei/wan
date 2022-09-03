@@ -179,27 +179,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "csp_biubiu_九亿资源",
-			"name": "九亿资源",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/9亿资源.json"
-		},
-		{
-			"key": "csp_9E03",
-			"name": "9E国语",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod",
-			"jar": "https://jihulab.com/yikeaimei/wan/-/raw/main/jar/box.jar"
-		},
-		{
 			"key": "Nfyun",
 			"name": "Nf云",
 			"type": 3,
@@ -217,25 +196,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
-		{
-			"key": "csp_Wmkk",
-			"name": "完美看看",
-			"api": "csp_Wmkk",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		},
-		{
-			"key":"csp_IKan",
-			"name":"爱看影视",
-			"type":3,
-			"api":"csp_IKan",
-			"quickSearch":1,
-			"searchable":1,
-			"filterable":1,
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/IKan.jpg"
 		},
 		{
 			"key": "Ekan_spider",
@@ -551,16 +511,6 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/007.json"
 		},
 		{
-			"key": "csp_xpath_czspp",
-			"name": "厂长资源(XP)",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/czzy.json"
-		},
-		{
 			"key": "优众影视",
 			"name": "优众影视",
 			"type": 3,
@@ -608,36 +558,6 @@
 			"jar": "https://jihulab.com/yikeaimei/wan/-/raw/main/jar/xzy.jar"
 		},
 		{
-			"key": "csp_xpath_9亿国语",
-			"name": "9亿国语(XP)",
-			"type": 3,
-			"api": "csp_XPathMacFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/9E.json"
-		},
-		{
-			"key": "csp_xpath_saohuotv",
-			"name": "骚火影视(XP)",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/saohuotv.json"
-		},
-		{
-			"key":"csp_xp_wmkankan",
-			"name":"完美看看(XP)",
-			"type":3,
-			"api":"csp_XPathMacFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XP/wmkankan.json"
-		},
-		{
 			"key": "csp_biubiu_米来影视",
 			"name": "米来影视",
 			"type": 3,
@@ -668,36 +588,6 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/乌龟影院.json"
 		},
 		{
-			"key": "看看影视",
-			"name": "看一看(XB)",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/看一看.json"
-		},
-		{
-			"key": "小强影迷",
-			"name": "小强迷(XB)",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/小强迷.json"
-		},
-		{
-			"key": "超清影视",
-			"name": "超清影视(XB)",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/超清影视.json"
-		},
-		{
 			"key": "csp_XBiubiubiubiu_口袋影院",
 			"name": "口袋(XB)",
 			"type": 3,
@@ -716,16 +606,6 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/达达龟.json"
-		},
-		{
-			"key": "csp_biubiu_大师兄影视",
-			"name": "大师兄影视(XB)",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/大师兄影视.json"
 		},
 		{
 			"key": "csp_biubiu_旧梦影视",
@@ -756,16 +636,6 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/乐猪影视.json"
-		},
-		{
-			"key": "csp_biubiu_六度TV",
-			"name": "六度TV(XB)",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/六度TV.json"
 		},
 		{
 			"key": "csp_biubiu_瓜皮TV",
@@ -856,16 +726,6 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/速搜影视.json"
-		},
-		{
-			"key": "csp_biubiu_骚火电影",
-			"name": "骚火电影(XB)",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/骚火电影.json"
 		},
 		{
 			"key": "csp_biubiu_厂长资源-蓝光",
