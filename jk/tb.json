@@ -1,5 +1,5 @@
 ﻿{
-	"spider": "https://agit.ai/aimei/wan/raw/branch/main/jar/1.png;md5;2fe897c5e75e41c550cc2a23dce389ae",
+	"spider": "https://agit.ai/aimei/wan/raw/branch/main/jar/0901.jar;md5;d2ded0d4b8b12b325bfcd3b7d1ecd3ea",
 
 	"wallpaper": "http://t15.baidu.com/it/u=1790011974,2290650889&fm=225&app=113&f=JPEG?w=1080&h=675&s=73A25C6CCB8347640A09626C02006076",
 
@@ -1327,9 +1327,9 @@
 			"url": "Parallel"
 		},
 		{
-			"name": "搬运",
+			"name": "GGTV自用",
 			"type": 1,
-			"url":"https://jx.bynote.top/API.php?url="
+			"url": "https://play.fuqizhishi.com/jx/API.php?appkey=zhitigonggeixiaobai4567891&url="
 		},
 		{
 			"name": "全民解析",
