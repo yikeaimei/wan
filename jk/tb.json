@@ -482,12 +482,12 @@
 		},
 		{
 			"key": "csp_XYQBiu_剧荒",
-			"name": "剧荒影院(XYQ)",
+			"name": "剧荒(XYQ)",
 			"type": 3,
 			"api": "csp_XYQBiu",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/剧荒.json"
 		},
 		{
