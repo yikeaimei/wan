@@ -1,5 +1,5 @@
 ﻿{
-	"spider": "https://agit.ai/aimei/wan/raw/branch/main/jar/0901.jar;md5;d2ded0d4b8b12b325bfcd3b7d1ecd3ea",
+	"spider": "https://agit.ai/aimei/wan/raw/branch/main/jar/0905.jar;md5;ee77d27ee6ecfc4b6bcea8315954ec0c",
 
 	"wallpaper": "http://t15.baidu.com/it/u=1790011974,2290650889&fm=225&app=113&f=JPEG?w=1080&h=675&s=73A25C6CCB8347640A09626C02006076",
 
@@ -262,15 +262,13 @@
 			"categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
 		},
 		{
-			"key": "csp_hbys",
+			"key": "简影",
 			"name": "简影",
-			"api": "csp_JianYing",
-			"type": 3,
-			"filterable": 0,
-			"quickSearch": 1,
+			"type": 4,
+			"api": "https://vod.kooo.eu.org/t4/vip11b016",
 			"searchable": 1,
-			"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q",
-			"jar": "https://jihulab.com/yikeaimei/wan/-/raw/main/jar/sp07.txt"
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
 			"key": "Gitcafe",
@@ -1261,15 +1259,15 @@
 			"ext": "https://app.bl210.com/api.php/v1.vod"
 		},
 		{
-			"key":"Alist",
-			"name":"Alist",
-			"type":3,
-			"api":"csp_Alist",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/Qita/Alist.json",
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/0904.jar"
+			"key": "csp_Alist11",
+			"name": " Alist(聚合)",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#梓澪の妙妙屋$https://xn--i0v44m.xyz#9T$https://drive.9t.ee#Eren's$https://alist.sharefiles.repl.co#七米蓝$https://al.chirmyram.com",
+			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/alist.jar"
 		},
 		{
 			"key": "csp_Alips",
