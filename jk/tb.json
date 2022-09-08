@@ -1326,9 +1326,9 @@
 			"url": "Parallel"
 		},
 		{
-			"name": "GGTV自用",
-			"type": 1,
-			"url": "https://play.fuqizhishi.com/jx/API.php?appkey=zhitigonggeixiaobai4567891&url="
+			"name":"线路2",
+			"type":1,
+			"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="
 		},
 		{
 			"name": "全民解析",
