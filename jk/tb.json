@@ -499,8 +499,18 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/lyys.json"
 		},
 		{
+			"key": "csp_xpath_旧梦影视",
+			"name": "旧梦影视(XP)️",
+			"type": 3,
+			"api": "csp_XPathMacFilter",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "clan://TVBox/box/MaooXP/旧梦影视.json"
+		},
+		{
 			"key":"csp_xpath_UM",
-			"name":"UM影院(XPMF)",
+			"name":"UM影院(XP)",
 			"type":3,
 			"api":"csp_XPathMacFilter",
 			"searchable":1,
