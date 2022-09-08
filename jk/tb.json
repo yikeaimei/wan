@@ -1326,9 +1326,10 @@
 			"url": "Parallel"
 		},
 		{
-			"name":"线路2",
-			"type":1,
-			"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="
+			"name": "油果",
+			"type": 1,
+			"url": "http://json.youguo520.top/fufeng/?url=",
+			"ext": {"flag": ["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}
 		},
 		{
 			"name": "全民解析",
