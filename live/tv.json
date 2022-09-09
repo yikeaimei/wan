@@ -1,94 +1,359 @@
 央视频道,#genre#
-CCTV1,rtsp://221.203.83.35:554/PLTV/88888888/224/0/3221226118/iptv65795.smil?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8?$超清1080P#http://39.134.193.100:6610/030000001001/hdcctv01/1.m3u8?#http://111.20.35.103:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$超清1080P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225918/index.m3u8?$超清1080P#http://125.210.152.19:9090/live/hzgq-cctv1gq-h264.m3u8?$高清720P#http://ott.mobaibox.com/PLTV/3/224/3221227634/index.m3u8?$超清1080P#http://111.63.117.13:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8?$超清1080P#http://39.134.66.4:80/PLTV/88888888/224/3221225816/index.m3u8?$超清1080P
-CCTV2,http://111.20.35.103:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$超清1080P#http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8?$超清1080P#http://125.210.152.19:9090/live/hzgq-cctv2gq-h264.m3u8?$高清720P#rtsp://221.203.83.35:554/PLTV/88888888/224/3221226584/10000100000000060000000000499223_0.smil?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226195/index.m3u8?$超清1080P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8?$超清1080P#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232362/index.m3u8?$超清1080P
-CCTV3,http://111.40.196.29/PLTV/88888888/224/3221225588/index.m3u8?$高清720P#http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000359/index.m3u8?IAS#http://ott.mobaibox.com/PLTV/3/224/3221227623/index.m3u8?$超清1080P#http://39.134.65.175/PLTV/88888888/224/3221225799/index.m3u8?$蓝光1080P#http://111.20.35.103:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$超清1080P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226397/index.m3u8?$超清1080P
-CCTV4,rtsp://221.203.83.35:554/PLTV/88888888/224/3221226601/10000100000000060000000000755997_0.smil?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226223/index.m3u8?$超清1080P#http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000320/index.m3u8?IAS#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8?$超清1080P#http://111.20.35.103:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$超清1080P
-CCTV5,http://117.148.129.8/PLTV/88888888/224/3221233115/index.m3u8?$超清1080P#http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8?$超清1080P#http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000360/index.m3u8?$超清1080P#http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8?$高清720P#http://ott.mobaibox.com/PLTV/3/224/3221227617/index.m3u8?$超清1080P#http://111.20.33.93:80/PLTV/88888893/224/3221226395/index.m3u8?$超清1080P
-CCTV5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8?$超清1080P#http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8?$超清1080P#http://ott.mobaibox.com/PLTV/3/224/3221227631/index.m3u8?$超清1080P#http://111.40.196.25/PLTV/88888888/224/3221225767/index.m3u8?$高清720P
-CCTV6,http://111.20.33.93:80/PLTV/88888893/224/3221226011/index.m3u8?$高清1080P#http://111.20.35.103:6610/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$超清1080P#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv6hd/2300000/mnf.m3u8?$高清720P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8?$超清1080P#http://117.148.129.8/PLTV/88888888/224/3221231724/index.m3u8?$超清1080P
-CCTV7,http://111.20.33.93/TVOD/88888893/224/3221226192/index.m3u8?$超清1080P#http://111.20.35.103:6610/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$超清1080P#rtsp://221.203.83.35:554/PLTV/88888888/224/3221226531/10000100000000060000000000499224_0.smil?$超清1080P#http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8?$超清1080P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225644/index.m3u8?$超清1080P
-CCTV8,http://111.40.196.31/PLTV/88888888/224/3221225592/index.m3u8?$高清720P#http://39.134.193.100:6610/030000001001/cctv-8/1.m3u8?$超清1080P#http://111.20.35.103:6610/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$超清1080P#http://ott.mobaibox.com/PLTV/3/224/3221227629/index.m3u8?$超清1080P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226391/index.m3u8?$超清1080P
-CCTV9,http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8?$超清1080P#http://111.20.35.103:6610/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$超清1080P#http://111.40.196.34/PLTV/88888888/224/3221225502/index.m3u8?$高清720P#http://111.20.33.93/TVOD/88888893/224/3221226197/index.m3u8?$超清1080P#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231697/index.m3u8?$超清1080P
-CCTV10,http://111.20.33.93/TVOD/88888893/224/3221226189/index.m3u8?$超清1080P#http://111.20.35.103:6610/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$超清1080P#rtsp://221.203.83.35:554/PLTV/88888888/224/3221226586/10000100000000060000000000499225_0.smil?$超清1080P#http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8?$超清1080P#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231666/index.m3u8?$超清1080P
-CCTV11,http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8?$超清1080P#http://111.40.196.9/PLTV/88888888/224/3221225496/index.m3u8?$高清720P#http://125.210.152.19:9090/live/hzgq-cctv11gq-h264.m3u8?$高清720P#http://39.135.138.59:18890/TVOD/88888910/224/3221225628/index.m3u8?$超清1080P
-CCTV12,http://111.20.35.103:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$超清1080P#http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226190/index.m3u8?$超清1080P#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231660/index.m3u8?$超清1080P
-CCTV13,http://111.40.196.30/PLTV/88888888/224/3221225504/index.m3u8?$高清720P#http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000345/index.m3u8?IAS#http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8?$超清1080P
-CCTV14,http://111.20.35.103:6610/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$超清1080P#rtsp://221.203.83.35:554/PLTV/88888888/224/3221226529/10000100000000060000000000499222_0.smil?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226193/index.m3u8?$超清1080P
-CCTV15,http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8?$高清720P#http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8?$超清1080P
-CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8?$蓝光1080P#http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8?$蓝光1080P#http://111.20.33.93/TVOD/88888893/224/3221226921/index.m3u8?$超清1080P
-CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226198/index.m3u8?$超清1080P#http://111.20.35.103:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$超清1080P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8?$超清1080P
-CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?$蓝光1080P#https://p.ggiptv.com/v/4k.m3u8?$蓝光4K#http://117.148.129.6/PLTV/88888888/224/3221233400/index.m3u8?$蓝光4K
+
+CCTV1 HD,http://www.hezw.top:8000/udp/239.21.1.120:5002
+CCTV2 HD,http://www.hezw.top:8000/udp/239.21.1.151:5002
+CCTV3 HD（试看）,http://www.hezw.top:8000/udp/239.21.2.45:5002
+CCTV4 HD,http://www.hezw.top:8000/udp/239.21.1.154:5002
+CCTV5 HD（试看）,http://www.hezw.top:8000/udp/239.21.2.46:5002
+CCTV6 HD（试看）,http://www.hezw.top:8000/udp/239.21.2.47:5002
+CCTV7 HD,http://www.hezw.top:8000/udp/239.21.1.152:5002
+CCTV8 HD（试看）,http://www.hezw.top:8000/udp/239.21.2.48:5002
+CCTV9 HD,http://www.hezw.top:8000/udp/239.21.1.153:5002
+CCTV10 HD,http://www.hezw.top:8000/udp/239.21.1.155:5002
+CCTV11 HD,http://www.hezw.top:8000/udp/239.21.2.2:5002
+CCTV12 HD,http://www.hezw.top:8000/udp/239.21.1.156:5002
+CCTV13 HD,http://www.hezw.top:8000/udp/239.21.2.3:5002
+CCTV14 HD,http://www.hezw.top:8000/udp/239.21.1.157:5002
+CCTV15 HD,http://www.hezw.top:8000/udp/239.21.2.4:5002
+CCTV5+ HD,http://www.hezw.top:8000/udp/239.21.1.142:5002
+CCTV17 HD,http://www.hezw.top:8000/udp/239.21.1.186:5002
+CCTV1,http://www.hezw.top:8000/udp/239.21.1.1:5002
+CCTV2,http://www.hezw.top:8000/udp/239.21.1.2:5002
+CCTV3,http://www.hezw.top:8000/udp/239.21.1.3:5002
+CCTV4,http://www.hezw.top:8000/udp/239.21.1.4:5002
+CCTV5,http://www.hezw.top:8000/udp/239.21.1.5:5002
+CCTV6,http://www.hezw.top:8000/udp/239.21.1.6:5002
+CCTV7,http://www.hezw.top:8000/udp/239.21.1.7:5002
+CCTV8,http://www.hezw.top:8000/udp/239.21.1.8:5002
+CCTV9,http://www.hezw.top:8000/udp/239.21.1.9:5002
+CGTN,http://www.hezw.top:8000/udp/239.21.1.10:5002
+CCTV10,http://www.hezw.top:8000/udp/239.21.1.11:5002
+CCTV11,http://www.hezw.top:8000/udp/239.21.1.12:5002
+CCTV12,http://www.hezw.top:8000/udp/239.21.1.13:5002
+CCTV13,http://www.hezw.top:8000/udp/239.21.2.1:5002
+CCTV13,http://www.hezw.top:8000/udp/239.21.1.14:5002
+CCTV14,http://www.hezw.top:8000/udp/239.21.1.15:5002
+CCTV15,http://www.hezw.top:8000/udp/239.21.1.16:5002
+CCTV17,http://www.hezw.top:8000/udp/239.21.1.206:5002
+中国交通 HD,http://www.hezw.top:8000/udp/239.21.1.115:5002
+
+
 
 卫视频道,#genre#
-安徽卫视,http://111.40.196.25/PLTV/88888888/224/3221225551/index.m3u8?$高清720P#rtsp://221.203.83.35/PLTV/88888888/224/3221226535/10000100000000060000000000499232_0.smil?$超清1080P#http://ott.mobaibox.com/PLTV/3/224/3221227643/index.m3u8?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226203/index.m3u8?$超清1080P#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230215/index.m3u8?$高清720P
-北京卫视,rtsp://221.203.83.35/PLTV/88888888/224/3221226469/10000100000000060000000000133834_0.smil?$超清1080P#http://111.40.196.9/PLTV/88888888/224/3221225529/index.m3u8?$高清720P#http://111.20.33.93/TVOD/88888893/224/3221226222/index.m3u8?$超清1080P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8?$超清1080P#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231732/index.m3u8?$超清1080P
-上海卫视,http://111.20.33.93/TVOD/88888893/224/3221226217/index.m3u8?$超清1080P#http://111.40.196.35/PLTV/88888888/224/3221225509/index.m3u8?$高清720P#http://39.134.193.100:6610/030000001001/dongfangstv/1.m3u8?$超清1080P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8?$超清1080P#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hddfws/4000000/mnf.m3u8?$超清1080P
-重庆卫视,http://111.20.33.93:80/PLTV/88888893/224/3221226202/index.m3u8?$超清1080P#http://ott.mobaibox.com/PLTV/3/224/3221227632/index.m3u8?$超清1080P#rtsp://221.203.83.35/PLTV/88888888/224/3221226644/10000100000000060000000000623270_0.smil?$超清1080P#https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8?$超清1080P#http://39.135.138.59:18890/TVOD/88888910/224/3221225734/index.m3u8?$超清1080P
-天津卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225739/index.m3u8?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226204/index.m3u8?$超清1080P#http://ott.mobaibox.com/PLTV/3/224/3221227633/index.m3u8?$超清1080P#http://111.40.196.9/PLTV/88888888/224/3221225556/index.m3u8?$超清1080P#rtsp://221.203.83.35:554/PLTV/88888888/224/3221226509/10000100000000060000000000356893_0.smil?$超清1080P#http://117.148.179.146:80/PLTV/88888888/224/3221228905/index.m3u8?$超清1080P
-新疆卫视,rtsp://221.203.83.35:554/PLTV/88888888/224/0/3221226149/iptv147985.smil?$标清576P
-浙江卫视,http://111.40.196.25/PLTV/88888888/224/3221225523/index.m3u8?$高清720P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8?$超清1080P#rtsp://221.203.83.35:554/PLTV/88888888/224/3221226507/10000100000000060000000000356891_0.smil?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226199/index.m3u8?$超清1080P
-福建卫视,http://39.135.138.59:18890/TVOD/88888910/224/3221225657/index.m3u8?$超清1080P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8?$超清1080P
-海峡卫视,http://39.135.48.135:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1?$超清1080P
-厦门卫视,rtsp://221.203.83.35:554/PLTV/88888888/224/3221226606/10000100000000060000000000599459_0.smil?$标清576P
-湖南卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230206/index.m3u8?$超清1080P#http://111.40.196.9/PLTV/88888888/224/3221225521/index.m3u8?$高清720P#rtsp://221.203.83.35/PLTV/88888888/224/3221226467/10000100000000060000000000133832_0.smil?$超清1080P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226211/index.m3u8?$超清1080P
-江苏卫视,https://litchiapp-hls.jstv.com/lizhiapp/jsws.m3u8?$高清720P#http://111.40.196.31/PLTV/88888888/224/3221225515/index.m3u8?$高清720P#http://39.135.32.26:6610/000000001000/1000000001000001828/index.m3u8?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226200/index.m3u8?$超清1080P#rtsp://221.203.83.35:554/PLTV/88888888/224/3221226474/10000100000000060000000000133833_0.smil?$超清1080P#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jswshd/4000000/mnf.m3u8?$超清1080P
-江西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls?$超清1080P#http://111.40.196.30/PLTV/88888888/224/3221225560/index.m3u8?$移动高清720P
-云南卫视,http://39.135.48.135:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1?$超清1080P
-贵州卫视,http://39.136.48.19:8089/PLTV/88888888/224/3221225777/index.m3u8?$超清1080P
-四川卫视,rtsp://221.203.83.35:554/PLTV/88888888/224/3221226583/10000100000000060000000000623271_0.smil?$超清1080P
-康巴卫视,http://scgctvshow.sctv.com/hdlive/kangbac31704f550416b67a007/1.m3u8?$高清720P
-山东卫视,http://ott.mobaibox.com/PLTV/3/224/3221227621/index.m3u8?$超清1080P#http://111.40.196.36/PLTV/88888888/224/3221225545/index.m3u8?$高清720P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8?$超清1080P#rtsp://221.203.83.35:554/PLTV/88888888/224/3221226523/10000100000000060000000000425465_0.smil?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226209/index.m3u8?$超清1080P#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221227909/index.m3u8?$高清720P
-山西卫视,http://liveflash.sxrtv.com:80/live/sxwshd.m3u8?$高清720P#http://player.521fanli.cn/1691/0/tide/tidem3u8.php?id=shanxihd$高清720P
-甘肃卫视,http://39.136.48.58:8089/PLTV/88888888/224/3221226387/index.m3u8?$超清1080P
-青海卫视,http://124.230.25.82:4022/udp/239.76.254.132:9000?$超清1080P
-广东卫视,http://111.20.33.93/TVOD/88888893/224/3221226216/index.m3u8?$超清1080P#http://cm.wshls.homecdn.com/live/1bd69.m3u8?$高清720P#rtsp://221.203.83.35/PLTV/88888888/224/3221226525/10000100000000060000000000425466_0.smil?$超清1080P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8?$超清1080P
-广西卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls?$超清1080P
-深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8?$超清1080P#rtsp://221.203.83.35/PLTV/88888888/224/3221226472/10000100000000060000000000133821_0.smil?$超清1080P#http://111.40.196.9/PLTV/88888888/224/3221225528/index.m3u8?$高清720P#http://ott.mobaibox.com/PLTV/3/224/3221227624/index.m3u8?$超清1080P#http://39.135.138.58:18890/PLTV/88888888/224/3221225700/index.m3u8?$蓝光1080P#http://111.20.33.93/TVOD/88888893/224/3221226205/index.m3u8?$超清1080P
-湖北卫视,http://39.135.32.27:6610/000000001000/1000000001000010355/index.m3u8?#rtsp://221.203.83.35:554/PLTV/88888888/224/3221226514/10000100000000060000000000356892_0.smil?$超清1080P#http://111.40.196.9/PLTV/88888888/224/3221225566/index.m3u8?$高清720P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226194/index.m3u8?$超清1080P#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231888/index.m3u8?$超清1080P
-河北卫视,http://223.166.93.103:12999/hls/38/index.m3u8?$超清1080P
-河南卫视,http://223.166.93.103:12999/hls/39/index.m3u8?$超清1080P
-辽宁卫视,rtsp://221.203.83.35:554/PLTV/88888888/224/3221226511/10000100000000060000000000394610_0.smil?$超清1080P#http://111.40.196.34/PLTV/88888888/224/3221225593/index.m3u8?$高清720P#http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8?$蓝光1080P#http://111.20.33.93/TVOD/88888893/224/3221226201/index.m3u8?$超清1080P#http://117.148.179.152:80/PLTV/88888888/224/3221231802/1.m3u8?$超清1080P
-吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?$超清1080P#http://39.134.65.151:80/PLTV/88888888/224/3221225981/1.m3u8$超清1080P
-黑龙江卫视,http://111.40.196.38/PLTV/88888888/224/3221225544/index.m3u8?$超清1080P#http://39.135.138.58:18890/PLTV/88888888/224/3221225736/index.m3u8?$蓝光1080P#http://ott.mobaibox.com/PLTV/3/224/3221227638/index.m3u8?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226215/index.m3u8?$超清1080P#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231967/index.m3u8?$超清1080P
-海南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls?$超清1080P
-陕西卫视,http://livepull.sxiptv.cn/live/shanxiweishihd.m3u8?txSecret=4b3fab0deb7af37d2237a56a2867633e&txTime=95720646914
-兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8?$高清720P
-宁夏卫视,http://gg.gg/HaNoiIPTV-Ning_Xia_Wei_Shi_HD?$全网高清720P
-南方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226203/index.m3u8?$标清576P
-三沙卫视,http://pull2.ssws.tv/live/SswsTV20210803.m3u8?$高清720P
-教育卫视,http://39.136.48.98:8089/PLTV/88888888/224/3221226049/index.m3u8?$超清1080P
+山东卫视 HD,http://www.hezw.top:8000/udp/239.21.1.87:5002
+北京卫视 HD,http://www.hezw.top:8000/udp/239.21.1.88:5002
+江苏卫视 HD,http://www.hezw.top:8000/udp/239.21.1.89:5002
+浙江卫视 HD,http://www.hezw.top:8000/udp/239.21.1.90:5002
+黑龙江卫视 HD,http://www.hezw.top:8000/udp/239.21.1.91:5002
+东方卫视 HD,http://www.hezw.top:8000/udp/239.21.1.111:5002
+广东卫视 HD,http://www.hezw.top:8000/udp/239.21.1.92:5002
+深圳卫视 HD,http://www.hezw.top:8000/udp/239.21.1.93:5002
+东南卫视 HD,http://www.hezw.top:8000/udp/239.21.1.113:5002
+湖南卫视 HD,http://www.hezw.top:8000/udp/239.21.1.158:5002
+安徽卫视 HD,http://www.hezw.top:8000/udp/239.21.1.159:5002
+湖北卫视 HD,http://www.hezw.top:8000/udp/239.21.1.163:5002
+辽宁卫视 HD,http://www.hezw.top:8000/udp/239.21.1.164:5002
+天津卫视 HD,http://www.hezw.top:8000/udp/239.21.1.165:5002
+贵州卫视 HD,http://www.hezw.top:8000/udp/239.21.1.166:5002
+江西卫视 HD,http://www.hezw.top:8000/udp/239.21.1.167:5002
+河南卫视 HD,http://www.hezw.top:8000/udp/239.21.2.37:5002
+河北卫视 HD,http://www.hezw.top:8000/udp/239.21.1.168:5002
+重庆卫视 HD,http://www.hezw.top:8000/udp/239.21.1.233:5002
+海南卫视 HD,http://www.hezw.top:8000/udp/239.21.2.14:5002
+四川卫视 HD,http://www.hezw.top:8000/udp/239.21.2.15:5002
+吉林卫视 HD,http://www.hezw.top:8000/udp/239.21.2.49:5002
+甘肃卫视 HD,http://www.hezw.top:8000/udp/239.21.2.22:5002
+浙江卫视,http://www.hezw.top:8000/udp/239.21.1.17:5002
+湖南卫视,http://www.hezw.top:8000/udp/239.21.1.18:5002
+江苏卫视,http://www.hezw.top:8000/udp/239.21.1.19:5002
+北京卫视,http://www.hezw.top:8000/udp/239.21.1.20:5002
+安徽卫视,http://www.hezw.top:8000/udp/239.21.1.21:5002
+天津卫视,http://www.hezw.top:8000/udp/239.21.1.22:5002
+东方卫视,http://www.hezw.top:8000/udp/239.21.1.23:5002
+重庆卫视,http://www.hezw.top:8000/udp/239.21.1.24:5002
+深圳卫视,http://www.hezw.top:8000/udp/239.21.1.25:5002
+广东卫视,http://www.hezw.top:8000/udp/239.21.1.26:5002
+辽宁卫视,http://www.hezw.top:8000/udp/239.21.1.27:5002
+黑龙江卫视,http://www.hezw.top:8000/udp/239.21.1.28:5002
+东南卫视,http://www.hezw.top:8000/udp/239.21.1.29:5002
+陕西卫视,http://www.hezw.top:8000/udp/239.21.1.30:5002
+海南卫视,http://www.hezw.top:8000/udp/239.21.1.31:5002
+湖北卫视,http://www.hezw.top:8000/udp/239.21.1.32:5002
+山西卫视,http://www.hezw.top:8000/udp/239.21.1.33:5002
+四川卫视,http://www.hezw.top:8000/udp/239.21.1.34:5002
+河北卫视,http://www.hezw.top:8000/udp/239.21.1.35:5002
+江西卫视,http://www.hezw.top:8000/udp/239.21.1.36:5002
+吉林卫视,http://www.hezw.top:8000/udp/239.21.1.37:5002
+河南卫视,http://www.hezw.top:8000/udp/239.21.1.38:5002
+广西卫视,http://www.hezw.top:8000/udp/239.21.1.39:5002
+云南卫视,http://www.hezw.top:8000/udp/239.21.1.40:5002
+内蒙古卫视,http://www.hezw.top:8000/udp/239.21.1.41:5002
+贵州卫视,http://www.hezw.top:8000/udp/239.21.1.42:5002
+青海卫视,http://www.hezw.top:8000/udp/239.21.1.43:5002
+宁夏卫视,http://www.hezw.top:8000/udp/239.21.1.44:5002
+新疆卫视,http://www.hezw.top:8000/udp/239.21.1.45:5002
+西藏卫视,http://www.hezw.top:8000/udp/239.21.1.46:5002
+甘肃卫视,http://www.hezw.top:8000/udp/239.21.1.47:5002
+厦门卫视,http://www.hezw.top:8000/udp/239.21.2.6:5002
+兵团卫视,http://www.hezw.top:8000/udp/239.21.1.234:5002
+农林卫视,http://www.hezw.top:8000/udp/239.21.1.235:5002
+三沙卫视,http://www.hezw.top:8000/udp/239.21.2.9:5002
 
 
-台灣綜合,#genre#
-公視,http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
-華視FHD,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
-衛視電影FHD,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
-CINEMAX FHD,http://218.32.47.179:18559/http/192.168.1.9:8081/hls/71/813/ch42.m3u8
-龍華電影台,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
-龍華戲劇台,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
-龍華偶像劇,http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
-龍華日韓劇,http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
-國家地理FHD,http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
-動物星球,http://218.32.47.179:18512/http/192.168.1.9:8081/hls/70/812/ch37.m3u8
-亞洲旅遊,http://218.32.47.179:18513/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
-三立台灣FHD,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
-華視新聞資訊台FHD,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
-緯來綜合FHD,http://218.32.47.179:18518/http/192.168.1.9:8081/hls/68/810/ch32.m3u8
-緯來戲劇,http://218.32.47.179:18533/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
-緯來育樂FHD,http://218.32.47.179:18562/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
-緯來體育FHD,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
-中天綜合FHD,http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
-中天娛樂FHD,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
-Baby TV,http://218.32.47.179:18514/http/192.168.1.9:8078/hls/35/80/babytv.m3u8
-momo綜合台,http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
-八大綜合FHD,http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8
-八大戲劇FHD,http://218.32.47.179:18531/http/192.168.1.9:8081/hls/66/808/ch23.m3u8
-東森綜合FHD,http://218.32.47.179:18524/http/192.168.1.9:8081/hls/63/805/ch12.m3u8
-東風衛視,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
-MUCH TV,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
-NHK世界FHD,http://218.32.47.179:8552/http/192.168.1.9:8081/hls/62/804/ch06.m3u8
-Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
-大愛電視,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
-人間衛視,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
-好消息頻道,http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
+
+少儿频道,#genre#
+
+
+金鹰卡通,http://www.hezw.top:8000/udp/239.21.1.48:5002
+BTV卡酷少儿,http://www.hezw.top:8000/udp/239.21.1.49:5002
+嘉佳卡通,http://www.hezw.top:8000/udp/239.21.2.5:5002
+优漫卡通,http://www.hezw.top:8000/udp/239.21.1.50:5002
+哈哈炫动,http://www.hezw.top:8000/udp/239.21.1.51:5002
+
+
+山东频道,#genre#
+
+山东卫视,http://www.hezw.top:8000/udp/239.21.1.52:5002
+山东齐鲁 HD,http://www.hezw.top:8000/udp/239.21.1.134:5002
+山东新闻 HD,http://www.hezw.top:8000/udp/239.21.1.140:5002
+山东体育 HD,http://www.hezw.top:8000/udp/239.21.1.141:5002
+山东生活 HD,http://www.hezw.top:8000/udp/239.21.1.175:5002
+山东农科 HD,http://www.hezw.top:8000/udp/239.21.1.183:5002
+山东文旅 HD,http://www.hezw.top:8000/udp/239.21.1.176:5002
+山东综艺 HD,http://www.hezw.top:8000/udp/239.21.1.177:5002
+山东少儿 HD,http://www.hezw.top:8000/udp/239.21.1.208:5002
+山东教育卫视 HD,http://www.hezw.top:8000/udp/239.21.1.169:5002
+山东齐鲁,http://www.hezw.top:8000/udp/239.21.1.53:5002
+山东新闻,http://www.hezw.top:8000/udp/239.21.1.54:5002
+山东综艺,http://www.hezw.top:8000/udp/239.21.1.55:5002
+山东生活,http://www.hezw.top:8000/udp/239.21.1.56:5002
+山东文旅,http://www.hezw.top:8000/udp/239.21.1.57:5002
+山东体育,http://www.hezw.top:8000/udp/239.21.1.58:5002
+山东农科,http://www.hezw.top:8000/udp/239.21.1.59:5002
+山东少儿,http://www.hezw.top:8000/udp/239.21.1.60:5002
+山东国际,http://www.hezw.top:8000/udp/239.21.1.61:5002
+山东教育卫视,http://www.hezw.top:8000/udp/239.21.1.101:5002
+山东居家购物,http://www.hezw.top:8000/udp/239.21.1.112:5002
+
+
+烟台频道,#genre#
+
+烟台综合,http://192.168.6.1:1111/rtp/239.253.248.254:8000
+烟台公共,http://192.168.6.1:1111/rtp/239.253.248.252:8000
+烟台影视,http://192.168.6.1:1111/rtp/239.253.248.250:8000
+烟台经济科技,http://192.168.6.1:1111/rtp/239.253.248.249:8000
+莱州,http://192.168.6.1:1111/rtp/239.253.248.251:8000
+
+综合直播,#genre#
+
+海看大片 HD,http://www.hezw.top:8000/udp/239.21.1.121:5002
+海看爱宠 HD,http://www.hezw.top:8000/udp/239.21.1.85:5002
+海看儿歌,http://www.hezw.top:8000/udp/239.21.1.86:5002
+海看,http://www.hezw.top:8000/udp/239.21.1.96:5002
+海看少儿 HD,http://www.hezw.top:8000/udp/239.21.1.97:5002
+海看剧场 HD,http://www.hezw.top:8000/udp/239.21.1.98:5002
+海看大片 HD,http://www.hezw.top:8000/udp/239.21.1.99:5002
+海看热播 HD,http://www.hezw.top:8000/udp/239.21.1.100:5002
+海看电竞 HD,http://www.hezw.top:8000/udp/239.21.1.135:5002
+济南新闻综合 HD,http://www.hezw.top:8000/udp/239.21.1.94:5002
+济南新闻综合,http://www.hezw.top:8000/udp/239.21.1.62:5002
+济南教育,http://www.hezw.top:8000/udp/239.21.1.133:5002
+济南都市,http://www.hezw.top:8000/udp/239.21.1.63:5002
+济南鲁中,http://www.hezw.top:8000/udp/239.21.1.149:5002
+济南科教,http://www.hezw.top:8000/udp/239.21.1.150:5002
+济南生活,http://www.hezw.top:8000/udp/239.21.1.64:5002
+济南影视,http://www.hezw.top:8000/udp/239.21.1.65:5002
+济南娱乐,http://www.hezw.top:8000/udp/239.21.1.66:5002
+济南商务,http://www.hezw.top:8000/udp/239.21.1.67:5002
+济南少儿,http://www.hezw.top:8000/udp/239.21.1.68:5002
+青岛QTV-1,http://www.hezw.top:8000/udp/239.21.1.69:5002
+青岛QTV-2,http://www.hezw.top:8000/udp/239.21.1.70:5002
+青岛QTV-3,http://www.hezw.top:8000/udp/239.21.1.71:5002
+青岛QTV-4,http://www.hezw.top:8000/udp/239.21.1.72:5002
+青岛QTV-5,http://www.hezw.top:8000/udp/239.21.1.73:5002
+青岛QTV-6,http://www.hezw.top:8000/udp/239.21.1.74:5002
+德州新闻综合 HD,http://www.hezw.top:8000/udp/239.21.1.75:5002
+德州公共 HD,http://www.hezw.top:8000/udp/239.21.1.76:5002
+潍坊WFTV-1 HD,http://www.hezw.top:8000/udp/239.21.1.77:5002
+潍坊WFTV-2 HD,http://www.hezw.top:8000/udp/239.21.1.78:5002
+日照新闻综合,http://www.hezw.top:8000/udp/239.21.1.79:5002
+日照科教,http://www.hezw.top:8000/udp/239.21.1.80:5002
+东营新闻综合,http://www.hezw.top:8000/udp/239.21.1.81:5002
+东营公共,http://www.hezw.top:8000/udp/239.21.1.82:5002
+淄博都市,http://www.hezw.top:8000/udp/239.21.1.83:5002
+淄博新闻 HD,http://www.hezw.top:8000/udp/239.21.1.84:5002
+空,http://www.hezw.top:8000/udp/239.21.1.95:5002
+德州夏津公共 HD,http://www.hezw.top:8000/udp/239.21.1.102:5002
+菏泽HZTV-1,http://www.hezw.top:8000/udp/239.21.1.103:5002
+空,http://www.hezw.top:8000/udp/239.21.1.104:5002
+淄博桓台TV-1,http://www.hezw.top:8000/udp/239.21.1.105:5002
+德州夏津综合 HD,http://www.hezw.top:8000/udp/239.21.1.106:5002
+济南长清新闻,http://www.hezw.top:8000/udp/239.21.1.107:5002
+空,http://www.hezw.top:8000/udp/239.21.1.108:5002
+淄博生活,http://www.hezw.top:8000/udp/239.21.1.109:5002
+淄博科教,http://www.hezw.top:8000/udp/239.21.1.110:5002
+淄博沂源新闻,http://www.hezw.top:8000/udp/239.21.1.114:5002
+滨州新闻综合,http://www.hezw.top:8000/udp/239.21.1.118:5002
+滨州公共,http://www.hezw.top:8000/udp/239.21.1.119:5002
+济宁综合,http://www.hezw.top:8000/udp/239.21.1.138:5002
+济宁教育,http://www.hezw.top:8000/udp/239.21.1.139:5002
+泰安宁阳-1 HD,http://www.hezw.top:8000/udp/239.21.1.143:5002
+泰安宁阳-2,http://www.hezw.top:8000/udp/239.21.1.144:5002
+空,http://www.hezw.top:8000/udp/239.21.1.145:5002
+空,http://www.hezw.top:8000/udp/239.21.1.146:5002
+空,http://www.hezw.top:8000/udp/239.21.1.147:5002
+空,http://www.hezw.top:8000/udp/239.21.1.148:5002
+空,http://www.hezw.top:8000/udp/239.21.1.160:5002
+IPTV5+,http://www.hezw.top:8000/udp/239.21.1.161:5002
+足球,http://www.hezw.top:8000/udp/239.21.1.162:5002
+威海文登TV-1 HD,http://www.hezw.top:8000/udp/239.21.1.174:5002
+枣庄滕州综合,http://www.hezw.top:8000/udp/239.21.1.178:5002
+未知超清电影 4K,http://www.hezw.top:8000/udp/239.21.1.179:5002
+潍坊寿光新闻,http://www.hezw.top:8000/udp/239.21.1.180:5002
+滨州惠民综合,http://www.hezw.top:8000/udp/239.21.1.181:5002
+淄博公共 HD,http://www.hezw.top:8000/udp/239.21.1.182:5002
+济宁金乡新闻 HD,http://www.hezw.top:8000/udp/239.21.1.184:5002
+济宁邹城新闻综合 HD,http://www.hezw.top:8000/udp/239.21.1.185:5002
+济南济阳综合 HD,http://www.hezw.top:8000/udp/239.21.1.187:5002
+空,http://www.hezw.top:8000/udp/239.21.1.188:5002
+空,http://www.hezw.top:8000/udp/239.21.1.189:5002
+CCTV5+ LD,http://www.hezw.top:8000/udp/239.21.1.190:5002
+海看电竞 LD,http://www.hezw.top:8000/udp/239.21.1.191:5002
+空,http://www.hezw.top:8000/udp/239.21.1.192:5002
+未知新闻综合 HD,http://www.hezw.top:8000/udp/239.21.1.193:5002
+BTV纪实 LD,http://www.hezw.top:8000/udp/239.21.1.194:5002
+空,http://www.hezw.top:8000/udp/239.21.1.197:5002
+空,http://www.hezw.top:8000/udp/239.21.1.198:5002
+空,http://www.hezw.top:8000/udp/239.21.1.199:5002
+空,http://www.hezw.top:8000/udp/239.21.1.200:5002
+空,http://www.hezw.top:8000/udp/239.21.1.201:5002
+空,http://www.hezw.top:8000/udp/239.21.1.202:5002
+综合测试 HD,http://www.hezw.top:8000/udp/239.21.1.203:5002
+空,http://www.hezw.top:8000/udp/239.21.1.207:5002
+日照岚山 HD,http://www.hezw.top:8000/udp/239.21.1.209:5002
+泰安新泰新闻综合 HD,http://www.hezw.top:8000/udp/239.21.1.210:5002
+菏泽莘县-1 HD,http://www.hezw.top:8000/udp/239.21.1.211:5002
+爱生活,http://www.hezw.top:8000/udp/239.21.1.212:5002
+精选,http://www.hezw.top:8000/udp/239.21.1.213:5002
+滨州无棣综合 HD,http://www.hezw.top:8000/udp/239.21.1.214:5002
+菏泽巨野新闻 HD,http://www.hezw.top:8000/udp/239.21.1.215:5002
+泰安东平新闻 HD,http://www.hezw.top:8000/udp/239.21.1.216:5002
+潍坊诸城新闻综合,http://www.hezw.top:8000/udp/239.21.1.217:5002
+潍坊寿光蔬菜 HD,http://www.hezw.top:8000/udp/239.21.1.218:5002
+聊城茌平综合 HD,http://www.hezw.top:8000/udp/239.21.1.219:5002
+威海乳山TV-1 HD,http://www.hezw.top:8000/udp/239.21.1.220:5002
+济南平阴综合,http://www.hezw.top:8000/udp/239.21.1.221:5002
+CETV4,http://www.hezw.top:8000/udp/239.21.1.222:5002
+空,http://www.hezw.top:8000/udp/239.21.1.223:5002
+济宁兖州新闻 HD,http://www.hezw.top:8000/udp/239.21.1.224:5002
+济宁曲阜新闻综合 HD,http://www.hezw.top:8000/udp/239.21.1.225:5002
+滨州沾化综合,http://www.hezw.top:8000/udp/239.21.1.226:5002
+威海荣成综合 HD,http://www.hezw.top:8000/udp/239.21.1.227:5002
+青岛平度新闻综合,http://www.hezw.top:8000/udp/239.21.1.228:5002
+德州齐河新闻 HD,http://www.hezw.top:8000/udp/239.21.1.230:5002
+潍坊青州文化旅游 HD,http://www.hezw.top:8000/udp/239.21.1.231:5002
+潍坊青州综合 HD,http://www.hezw.top:8000/udp/239.21.1.232:5002
+日照莒县TV-1,http://www.hezw.top:8000/udp/239.21.1.236:5002
+临沂兰陵综合 HD,http://www.hezw.top:8000/udp/239.21.1.237:5002
+滨州好生新闻频道 HD,http://www.hezw.top:8000/udp/239.21.1.238:5002
+德州武城新闻综合 HD,http://www.hezw.top:8000/udp/239.21.1.239:5002
+德州武城综艺影视 HD,http://www.hezw.top:8000/udp/239.21.1.240:5002
+德州禹城综合 HD,http://www.hezw.top:8000/udp/239.21.1.241:5002
+德州禹城综艺 HD,http://www.hezw.top:8000/udp/239.21.1.242:5002
+德州平原新闻 HD,http://www.hezw.top:8000/udp/239.21.1.243:5002
+德州宁津新闻综合 HD,http://www.hezw.top:8000/udp/239.21.2.50:5002
+菏泽定陶TV-1 HD,http://www.hezw.top:8000/udp/239.21.1.244:5002
+潍坊昌乐新闻综合 HD,http://www.hezw.top:8000/udp/239.21.1.245:5002
+菏泽东明TV-1,http://www.hezw.top:8000/udp/239.21.1.246:5002
+青岛莱西综合 HD,http://www.hezw.top:8000/udp/239.21.1.247:5002
+泰安新泰乡村 HD,http://www.hezw.top:8000/udp/239.21.1.248:5002
+日照五莲新闻综合,http://www.hezw.top:8000/udp/239.21.1.249:5002
+聊城冠县综合,http://www.hezw.top:8000/udp/239.21.1.250:5002
+菏泽郓城新闻 HD,http://www.hezw.top:8000/udp/239.21.1.251:5002
+滨州阳信新闻综合,http://www.hezw.top:8000/udp/239.21.1.252:5002
+聊城综合,http://www.hezw.top:8000/udp/239.21.1.253:5002
+聊城公共,http://www.hezw.top:8000/udp/239.21.1.254:5002
+济宁梁山新闻综合 HD,http://www.hezw.top:8000/udp/239.21.2.12:5002
+潍坊安丘新闻综合 HD,http://www.hezw.top:8000/udp/239.21.2.13:5002
+空,http://www.hezw.top:8000/udp/239.21.2.16:5002
+空,http://www.hezw.top:8000/udp/239.21.2.17:5002
+菏泽HZTV-2,http://www.hezw.top:8000/udp/239.21.2.18:5002
+济宁综合 HD,http://www.hezw.top:8000/udp/239.21.2.19:5002
+济宁公共,http://www.hezw.top:8000/udp/239.21.2.20:5002
+菏泽单县综合 HD,http://www.hezw.top:8000/udp/239.21.2.21:5002
+临沂蒙阴TV-1,http://www.hezw.top:8000/udp/239.21.2.23:5002
+德州陵城新闻 HD,http://www.hezw.top:8000/udp/239.21.2.24:5002
+空,http://www.hezw.top:8000/udp/239.21.2.25:5002
+空,http://www.hezw.top:8000/udp/239.21.2.26:5002
+潍坊昌邑新闻综合 HD,http://www.hezw.top:8000/udp/239.21.2.27:5002
+金鹰纪实 HD,http://www.hezw.top:8000/udp/239.21.1.170:5002
+上海纪实 HD,http://www.hezw.top:8000/udp/239.21.1.171:5002
+北京纪实 HD,http://www.hezw.top:8000/udp/239.21.1.172:5002
+上海纪实人文,http://www.hezw.top:8000/udp/239.21.1.195:5002
+湖南金鹰纪实 LD,http://www.hezw.top:8000/udp/239.21.1.196:5002
+空,http://www.hezw.top:8000/udp/239.21.1.173:5002
+CETV1 HD,http://www.hezw.top:8000/udp/239.21.2.7:5002
+CETV2,http://www.hezw.top:8000/udp/239.21.2.8:5002
+CCTV4-中文国际欧洲 HD,http://www.hezw.top:8000/udp/239.21.2.28:5002
+CCTV4-中文国际北美 HD,http://www.hezw.top:8000/udp/239.21.2.29:5002
+CGTN-英语,http://www.hezw.top:8000/udp/239.21.2.30:5002
+CGTN-英文纪录,http://www.hezw.top:8000/udp/239.21.2.31:5002
+CGTN-西班牙语,http://www.hezw.top:8000/udp/239.21.2.32:5002
+CGTN-法语,http://www.hezw.top:8000/udp/239.21.2.33:5002
+CGTN-阿拉伯语,http://www.hezw.top:8000/udp/239.21.2.34:5002
+CGTN-俄语,http://www.hezw.top:8000/udp/239.21.2.35:5002
+广播,http://www.hezw.top:8000/udp/239.21.2.36:5002
+喜剧影院,http://www.hezw.top:8000/udp/239.21.1.122:5002
+动作影院,http://www.hezw.top:8000/udp/239.21.1.123:5002
+IPTV经典电影,http://www.hezw.top:8000/udp/239.21.1.124:5002
+IPTV少儿动画,http://www.hezw.top:8000/udp/239.21.1.125:5002
+IPTV相声小品,http://www.hezw.top:8000/udp/239.21.1.126:5002
+财富天下,http://www.hezw.top:8000/udp/239.21.1.127:5002
+IPTV热播剧场,http://www.hezw.top:8000/udp/239.21.1.128:5002
+IPTV魅力时尚,http://www.hezw.top:8000/udp/239.21.1.129:5002
+墨宝,http://www.hezw.top:8000/udp/239.21.1.130:5002
+光影,http://www.hezw.top:8000/udp/239.21.1.131:5002
+美人,http://www.hezw.top:8000/udp/239.21.1.132:5002
+空,http://www.hezw.top:8000/udp/239.21.1.136:5002
+空,http://www.hezw.top:8000/udp/239.21.1.137:5002四海钓鱼,http://www.hezw.top:8000/udp/239.21.2.38:5002
+车迷（试看）,http://www.hezw.top:8000/udp/239.21.2.39:5002
+环球旅游（试看）,http://www.hezw.top:8000/udp/239.21.2.40:5002
+优优宝贝（试看）,http://www.hezw.top:8000/udp/239.21.2.41:5002
+生态环境（试看）,http://www.hezw.top:8000/udp/239.21.2.42:5002
+中华特产（试看）,http://www.hezw.top:8000/udp/239.21.2.43:5002
+体育赛事 HD（试看）,http://www.hezw.top:8000/udp/239.21.2.44:5002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
