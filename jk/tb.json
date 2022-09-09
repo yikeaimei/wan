@@ -42,6 +42,15 @@
 			"ext": ""
 		},
 		{
+			"key":"Dy555",
+			"name":"555",
+			"type":3,
+			"api":"csp_Dy555",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+		{
 			"key": "csp_Anime1",
 			"name": "Anime",
 			"type": 3,
@@ -189,15 +198,6 @@
 			"ext": ""
 		},
 		{
-			"key": "Dy555",
-			"name": "555影视",
-			"type": 3,
-			"api": "csp_Dy555",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "Ekan_spider",
 			"name": "Ekan",
 			"api": "csp_Ekan",
@@ -262,13 +262,14 @@
 			"categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
 		},
 		{
-			"key":"简影",
+			"key":"Jianying",
 			"name":"简影",
-			"type":4,
-			"api":"https://vod.kooo.eu.org/t4/vip11b016",
+			"type":3,
+			"api":"csp_JianYing",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":0,
+			"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoxNDg0MywiQ3JlYXRlZEF0IjoiMjAyMi0wNC0xMlQxMDoxMjowNi4wMjQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTA1VDEwOjQ5OjMwLjU4NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjE2OTM1MTE4NkBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJjYzI0NWM4NS1jMjc1LTRhMmYtYmI5MC02ZWYxODg5ZDA4YzQiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo0OTozMC41ODQrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYyOTkxNTA1LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.D5bWERTTmTREF3H7lOGxwq9Ec8ou82909YpqO2PJqg4"
 		},
 		{
 			"key": "Gitcafe",
@@ -497,6 +498,16 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/lyys.json"
+		},
+		{
+			"key":"csp_xpath_555dy",
+			"name":"555电影(XP)",
+			"type":3,
+			"api":"csp_XPathMacFilter",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XP/555dy.json"
 		},
 		{
 			"key": "csp_xpath_旧梦影视",
