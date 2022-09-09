@@ -1336,15 +1336,10 @@
 			"url": "Parallel"
 		},
 		{
-			"name":"未知",
+			"name": "网络搜集05",
 			"type": 1,
-			"url": "https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="
-		},
-		{
-			"name":"未知3",
-			"type":1,
-			"url":"http://150.230.216.174/tvjx.php?url=",
-			"ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
+			"url": "https://a.dxzj88.com/jxrrm/jiami.php?url=",
+			"ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "芒果", "mgtv", "xigua", "wuduzy", "bilibili", "pptv", "leduo", "Clk4", "哔哩", "renrenmi", "ltnb", "rx"]}
 		},
 		{
 			"name": "全民解析",
