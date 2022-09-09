@@ -1336,10 +1336,10 @@
 			"url": "Parallel"
 		},
 		{
-			"name": "网络搜集05",
-			"type": 1,
-			"url": "https://a.dxzj88.com/jxrrm/jiami.php?url=",
-			"ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "芒果", "mgtv", "xigua", "wuduzy", "bilibili", "pptv", "leduo", "Clk4", "哔哩", "renrenmi", "ltnb", "rx"]}
+			"name":"未知2",
+			"type":1,
+			"url":"http://newjiexi.gotka.top/keyu3.php?url=",
+			"ext":{"header":{"User-Agent":"okhttp/4.1.0"}}
 		},
 		{
 			"name": "全民解析",
