@@ -12,6 +12,15 @@
 	}],
 
 	"sites": [{
+			"key": "360_spider",
+			"name": "360影视(官)",
+			"api": "csp_SP360",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1
+		},
+		{
 			"key": "Kunyu77",
 			"name": "酷云七七",
 			"type": 3,
@@ -42,13 +51,13 @@
 			"ext": ""
 		},
 		{
-			"key":"Dy555",
-			"name":"555",
-			"type":3,
-			"api":"csp_Dy555",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
+			"key": "Dy555",
+			"name": "555",
+			"type": 3,
+			"api": "csp_Dy555",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
 			"key": "csp_Anime1",
@@ -98,15 +107,6 @@
 			"filterable": 1,
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/bili.json",
 			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/box2.jar"
-		},
-		{
-			"key": "360_spider",
-			"name": "360影视(官)",
-			"api": "csp_SP360",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
 		},
 		{
 			"key": "看视界",
@@ -262,14 +262,14 @@
 			"categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
 		},
 		{
-			"key":"Jianying",
-			"name":"简影",
-			"type":3,
-			"api":"csp_JianYing",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoxNDg0MywiQ3JlYXRlZEF0IjoiMjAyMi0wNC0xMlQxMDoxMjowNi4wMjQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTA1VDEwOjQ5OjMwLjU4NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjE2OTM1MTE4NkBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJjYzI0NWM4NS1jMjc1LTRhMmYtYmI5MC02ZWYxODg5ZDA4YzQiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo0OTozMC41ODQrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYyOTkxNTA1LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.D5bWERTTmTREF3H7lOGxwq9Ec8ou82909YpqO2PJqg4"
+			"key": "Jianying",
+			"name": "简影",
+			"type": 3,
+			"api": "csp_JianYing",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoxNDg0MywiQ3JlYXRlZEF0IjoiMjAyMi0wNC0xMlQxMDoxMjowNi4wMjQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTA1VDEwOjQ5OjMwLjU4NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjE2OTM1MTE4NkBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJjYzI0NWM4NS1jMjc1LTRhMmYtYmI5MC02ZWYxODg5ZDA4YzQiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo0OTozMC41ODQrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYyOTkxNTA1LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.D5bWERTTmTREF3H7lOGxwq9Ec8ou82909YpqO2PJqg4"
 		},
 		{
 			"key": "Gitcafe",
@@ -441,43 +441,43 @@
 		},
 		{
 			"key": "csp_XYQBiu_555影视",
-			"name":"555影视(XYQ)",
-			"type":3,
-			"api":"csp_XYQBiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XYQ/555dy.json"
+			"name": "555影视(XYQ)",
+			"type": 3,
+			"api": "csp_XYQBiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/555dy.json"
 		},
 		{
 			"key": "csp_XYQBiu_影视工厂",
-			"name":"影视工厂(XYQ)",
-			"type":3,
-			"api":"csp_XYQBiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XYQ/影视工厂.json"
+			"name": "影视工厂(XYQ)",
+			"type": 3,
+			"api": "csp_XYQBiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/影视工厂.json"
 		},
 		{
-			"key":"csp_XYQBiu_wnys",
-			"name":"万能影视(XYQ)",
-			"type":3,
-			"api":"csp_XYQBiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XYQ/万能影视.json"
+			"key": "csp_XYQBiu_wnys",
+			"name": "万能影视(XYQ)",
+			"type": 3,
+			"api": "csp_XYQBiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/万能影视.json"
 		},
 		{
-			"key":"csp_XYQBiu_e9",
-			"name":"e9视频(XYQ)",
-			"type":3,
-			"api":"csp_XYQBiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XYQ/e9视频.json"
+			"key": "csp_XYQBiu_e9",
+			"name": "e9视频(XYQ)",
+			"type": 3,
+			"api": "csp_XYQBiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/e9视频.json"
 		},
 		{
 			"key": "csp_XYQBiu_剧荒",
@@ -500,14 +500,14 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XYQ/lyys.json"
 		},
 		{
-			"key":"csp_xpath_555dy",
-			"name":"555电影(XP)",
-			"type":3,
-			"api":"csp_XPathMacFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XP/555dy.json"
+			"key": "csp_xpath_555dy",
+			"name": "555电影(XP)",
+			"type": 3,
+			"api": "csp_XPathMacFilter",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/555dy.json"
 		},
 		{
 			"key": "csp_xpath_旧梦影视",
@@ -520,14 +520,14 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/旧梦影视.json"
 		},
 		{
-			"key":"csp_xpath_UM",
-			"name":"UM影院(XP)",
-			"type":3,
-			"api":"csp_XPathMacFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XP/UM.json"
+			"key": "csp_xpath_UM",
+			"name": "UM影院(XP)",
+			"type": 3,
+			"api": "csp_XPathMacFilter",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/UM.json"
 		},
 		{
 			"key": "csp_xpath_007",
@@ -540,14 +540,14 @@
 			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XP/007.json"
 		},
 		{
-			"key":"优众影视",
-			"name":"优众影视",
-			"type":3,
-			"api":"csp_AppYs",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"http://121.205.88.194:7878/xgapp.php/v2/"
+			"key": "优众影视",
+			"name": "优众影视",
+			"type": 3,
+			"api": "csp_AppYs",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://121.205.88.194:7878/xgapp.php/v2/"
 		},
 		{
 			"key": "Lib",
@@ -594,7 +594,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext":"https://agit.ai/aimei/wan/raw/branch/main/XB/米来影视.json"
+			"ext": "https://agit.ai/aimei/wan/raw/branch/main/XB/米来影视.json"
 		},
 		{
 			"key": "人人影视",
@@ -1287,8 +1287,8 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#梓澪の妙妙屋$https://xn--i0v44m.xyz#9T$https://drive.9t.ee#Eren's$https://alist.sharefiles.repl.co#七米蓝$https://al.chirmyram.com",
-			"jar":"https://agit.ai/aimei/wan/raw/branch/main/jar/alist.jar"
+			"ext": "米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#梓澪の妙妙屋$https://xn--i0v44m.xyz#9T$https://drive.9t.ee#Eren's$https://alist.sharefiles.repl.co#七米蓝$https://al.chirmyram.com",
+			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/alist.jar"
 		},
 		{
 			"key": "csp_Alips",
@@ -1347,16 +1347,25 @@
 			"url": "Parallel"
 		},
 		{
-			"name":"未知2",
-			"type":1,
-			"url":"http://newjiexi.gotka.top/keyu3.php?url=",
-			"ext":{"header":{"User-Agent":"okhttp/4.1.0"}}
+			"name": "未知2",
+			"type": 1,
+			"url": "http://newjiexi.gotka.top/keyu3.php?url=",
+			"ext": {
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			}
 		},
 		{
-			"name":"嗅探",
-			"type":0,
-			"url":"https://api.jiexi.la/?url=",
-			"ext":{"flag":["bilibili"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
+			"name": "嗅探",
+			"type": 0,
+			"url": "https://api.jiexi.la/?url=",
+			"ext": {
+				"flag": ["bilibili"],
+				"header": {
+					"User-Agent": "Dart/2.14 (dart:io)"
+				}
+			}
 		},
 		{
 			"name": "全民解析",
