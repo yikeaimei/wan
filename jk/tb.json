@@ -1,5 +1,5 @@
 ﻿{
-	"spider": "https://agit.ai/aimei/wan/raw/branch/main/jar/tvbox.jar;md5;86a2e6d82742d949c4fdc0b981085655",
+	"spider": "https://agit.ai/aimei/wan/raw/branch/main/jar/xjj.txt;md5;fbdf45c473af62832bc054cacf1f1758",
 
 	"wallpaper": "http://t15.baidu.com/it/u=1790011974,2290650889&fm=225&app=113&f=JPEG?w=1080&h=675&s=73A25C6CCB8347640A09626C02006076",
 
@@ -25,6 +25,15 @@
 			"name": "酷云七七",
 			"type": 3,
 			"api": "csp_Kunyu77",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "酷猫",
+			"name": "酷猫",
+			"type": 3,
+			"api": "csp_Kmys",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
