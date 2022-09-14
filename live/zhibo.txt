@@ -1,3 +1,4 @@
 ﻿https://gitea.com/leevi/share/raw/branch/main/live.txt
 https://gitcode.net/q284855646/yydsys/-/raw/master/live.txt
 https://gitcode.net/qq_26898231/TVBox/-/raw/main/live/zb.txt
+https://gitea.com/wyyy/tvbox/raw/branch/main/cloud.json
