@@ -109,14 +109,14 @@
 			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/box2.jar"
 		},
 		{
-			"key": "看视界",
-			"name": "看视界",
-			"type": 3,
-			"api": "csp_KanSJ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://agit.ai/aimei/wan/raw/branch/main/jar/ts.jar"
+			"key":"KanSJ_spider",
+			"name":"视界cloud",
+			"api":"csp_KanSJ",
+			"type":3,
+			"filterable":1,
+			"quickSearch":1,
+			"searchable":1,
+			"ext":""
 		},
 		{
 			"key": "Lezhu_spider",
@@ -556,8 +556,8 @@
 			"filterable": 1
 		},
 		{
-			"key": "293视频",
-			"name": "293视频",
+			"key":"293视频",
+			"name":"293cloud",
 			"type": 3,
 			"api": "csp_SP293",
 			"searchable": 1,
