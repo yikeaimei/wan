@@ -94,8 +94,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://codeberg.org/aimei/wan/raw/branch/main/Qita/meishi.json",
-			"jar": "https://codeberg.org/aimei/wan/raw/branch/main/jar/0826.jar"
+			"ext": "https://codeberg.org/aimei/wan/raw/branch/main/Qita/meishi.json"
 		},
 		{
 			"key": "csp_Bili",
